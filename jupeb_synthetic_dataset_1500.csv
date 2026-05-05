@@ -1,0 +1,1501 @@
+ca_score_40,attendance_rate_percent,mock_exam_score_100,study_hours_per_week,subject_combination,gender,study_resources,behavioural_pattern,stress_level_1_10,performance_category
+38,67,24,0,Commercial,Female,Tutorials,Motivated,6,Average
+28,19,19,18,Commercial,Female,Textbooks,Stressed,6,Average
+14,95,33,25,Commercial,Female,YouTube,Struggling,1,At Risk
+7,99,25,24,Commercial,Male,Mixed,Motivated,5,Average
+20,67,4,9,Commercial,Female,Textbooks,Stressed,10,Average
+38,90,98,14,Science,Female,YouTube,Stressed,3,Excellent
+18,63,60,21,Science,Male,Mixed,Motivated,7,Average
+22,16,91,20,Commercial,Male,YouTube,Stressed,10,Good
+10,11,92,21,Arts,Female,Textbooks,Struggling,3,Average
+10,21,8,35,Arts,Male,YouTube,Motivated,5,At Risk
+23,16,49,33,Commercial,Female,Tutorials,Stressed,7,Good
+35,9,5,29,Science,Male,Mixed,Stressed,3,Average
+39,64,82,24,Arts,Male,YouTube,Motivated,10,Good
+23,21,59,27,Arts,Female,Textbooks,Motivated,2,Average
+2,89,43,0,Arts,Male,Mixed,Motivated,6,Average
+21,81,10,3,Commercial,Female,Tutorials,Motivated,8,At Risk
+1,49,65,6,Arts,Male,Mixed,Struggling,4,At Risk
+23,13,46,8,Arts,Male,Tutorials,Motivated,9,At Risk
+29,63,72,35,Arts,Male,Mixed,Struggling,8,Good
+37,46,84,18,Arts,Male,YouTube,Struggling,7,Average
+1,28,87,0,Science,Male,YouTube,Motivated,7,At Risk
+20,75,97,9,Commercial,Female,Textbooks,Struggling,3,Good
+32,35,85,35,Commercial,Male,Tutorials,Motivated,6,Excellent
+11,98,2,8,Science,Female,Textbooks,Motivated,5,At Risk
+21,51,75,31,Science,Male,YouTube,Stressed,1,Excellent
+24,75,91,31,Commercial,Female,Tutorials,Motivated,3,Excellent
+26,6,29,5,Arts,Male,Textbooks,Stressed,1,At Risk
+27,28,89,37,Arts,Female,Textbooks,Struggling,4,Average
+15,10,20,16,Commercial,Female,Textbooks,Stressed,10,At Risk
+14,32,27,9,Arts,Male,Textbooks,Struggling,3,At Risk
+2,5,89,26,Science,Male,Textbooks,Motivated,4,Excellent
+36,78,61,34,Arts,Male,Tutorials,Struggling,9,Average
+6,31,32,20,Arts,Female,Textbooks,Struggling,3,At Risk
+20,50,84,24,Arts,Female,Tutorials,Motivated,6,Good
+8,74,34,27,Commercial,Male,Textbooks,Struggling,6,Average
+38,57,51,14,Science,Male,YouTube,Motivated,7,Good
+17,86,33,3,Arts,Female,YouTube,Stressed,9,At Risk
+3,25,40,28,Commercial,Female,Textbooks,Motivated,7,At Risk
+24,97,50,8,Arts,Male,Mixed,Motivated,1,Average
+13,45,46,26,Science,Female,YouTube,Struggling,8,Average
+8,97,81,25,Arts,Male,Tutorials,Stressed,5,Good
+25,28,57,18,Science,Male,Textbooks,Motivated,9,Average
+1,3,74,27,Arts,Male,Tutorials,Stressed,10,At Risk
+19,80,56,16,Science,Female,Mixed,Stressed,5,Good
+27,98,22,40,Arts,Female,Textbooks,Struggling,5,Average
+6,12,47,19,Science,Female,YouTube,Motivated,2,Average
+7,38,21,39,Arts,Female,Tutorials,Struggling,3,At Risk
+34,14,16,38,Arts,Male,YouTube,Motivated,10,Average
+13,28,68,22,Commercial,Female,YouTube,Stressed,9,Average
+16,28,10,31,Commercial,Male,Textbooks,Motivated,7,At Risk
+35,74,93,32,Science,Male,Tutorials,Motivated,1,Excellent
+39,31,14,4,Arts,Male,Mixed,Stressed,3,Average
+3,1,90,33,Science,Female,YouTube,Stressed,2,Average
+1,46,34,39,Commercial,Male,Textbooks,Motivated,1,Average
+5,77,32,10,Science,Male,Textbooks,Struggling,9,At Risk
+3,83,83,2,Science,Female,Mixed,Motivated,8,Average
+28,21,15,32,Commercial,Male,Textbooks,Stressed,5,Average
+17,74,33,10,Arts,Female,YouTube,Struggling,2,Good
+25,26,65,15,Science,Female,Textbooks,Stressed,1,Good
+33,66,98,17,Commercial,Female,Tutorials,Stressed,7,Excellent
+9,80,39,29,Arts,Male,Tutorials,Struggling,2,Good
+35,55,27,9,Commercial,Female,YouTube,Stressed,1,Good
+13,91,46,17,Science,Female,Tutorials,Stressed,2,Good
+30,92,38,37,Arts,Female,Mixed,Stressed,7,Good
+14,20,69,18,Arts,Female,Textbooks,Stressed,7,Average
+7,46,72,35,Commercial,Male,YouTube,Stressed,10,Average
+13,79,19,12,Commercial,Female,Mixed,Stressed,6,At Risk
+22,100,0,2,Commercial,Male,Textbooks,Stressed,5,At Risk
+39,58,71,9,Arts,Female,Mixed,Stressed,3,Good
+20,83,86,37,Arts,Male,YouTube,Stressed,3,Good
+15,5,62,0,Science,Female,YouTube,Motivated,9,At Risk
+17,18,66,26,Arts,Male,Mixed,Motivated,4,Average
+23,56,3,7,Science,Female,Textbooks,Stressed,9,At Risk
+25,68,57,16,Commercial,Male,Tutorials,Motivated,4,Good
+24,2,24,8,Commercial,Male,Tutorials,Struggling,2,At Risk
+40,0,46,5,Arts,Male,Mixed,Motivated,4,Good
+28,57,37,24,Commercial,Female,YouTube,Stressed,6,Average
+14,37,14,38,Commercial,Male,Textbooks,Stressed,6,At Risk
+0,14,62,27,Arts,Male,Textbooks,Motivated,5,At Risk
+24,33,20,32,Science,Male,YouTube,Stressed,1,At Risk
+6,60,98,36,Arts,Male,Tutorials,Struggling,3,Excellent
+8,34,56,8,Science,Female,Textbooks,Struggling,5,At Risk
+23,63,52,17,Arts,Male,Mixed,Stressed,6,Average
+0,24,45,20,Arts,Male,Tutorials,Struggling,1,Average
+7,23,13,1,Commercial,Male,Mixed,Struggling,9,At Risk
+23,11,99,37,Arts,Female,Tutorials,Motivated,3,Good
+10,17,75,39,Arts,Male,YouTube,Struggling,10,At Risk
+16,14,16,35,Science,Male,Mixed,Motivated,3,Average
+7,79,38,36,Commercial,Male,Mixed,Stressed,2,Good
+34,26,8,14,Science,Male,YouTube,Motivated,8,Average
+34,71,98,27,Science,Female,Mixed,Stressed,3,Excellent
+32,59,76,17,Commercial,Male,Tutorials,Stressed,6,Average
+4,45,78,33,Commercial,Male,Textbooks,Stressed,2,Good
+38,88,81,21,Commercial,Female,Textbooks,Stressed,7,Excellent
+40,16,96,10,Arts,Female,YouTube,Stressed,4,Excellent
+27,92,5,12,Commercial,Female,Tutorials,Motivated,9,Average
+6,52,90,3,Commercial,Male,Mixed,Stressed,10,At Risk
+8,7,22,21,Commercial,Female,Mixed,Struggling,9,At Risk
+7,78,58,6,Science,Male,Textbooks,Struggling,7,At Risk
+11,26,90,23,Science,Female,Mixed,Stressed,8,At Risk
+33,45,97,3,Arts,Male,Textbooks,Struggling,3,Excellent
+32,49,45,27,Science,Female,YouTube,Motivated,5,Good
+22,70,37,14,Arts,Male,Mixed,Motivated,2,Good
+23,2,13,0,Science,Female,Tutorials,Stressed,10,At Risk
+36,92,99,2,Commercial,Male,Mixed,Stressed,7,Good
+34,63,71,13,Science,Male,Textbooks,Stressed,8,Good
+39,43,61,37,Arts,Male,YouTube,Struggling,9,Good
+21,52,34,0,Science,Male,Textbooks,Struggling,7,Average
+26,23,18,37,Commercial,Male,Mixed,Motivated,10,At Risk
+34,59,29,37,Arts,Male,Textbooks,Struggling,10,Good
+0,2,77,20,Commercial,Male,Textbooks,Motivated,8,At Risk
+34,19,83,28,Commercial,Male,YouTube,Struggling,9,Good
+36,45,24,4,Arts,Female,Tutorials,Motivated,6,Average
+13,14,39,9,Commercial,Male,Mixed,Stressed,10,At Risk
+2,24,87,27,Commercial,Male,YouTube,Struggling,2,Good
+0,93,13,20,Science,Female,Tutorials,Motivated,2,At Risk
+4,77,25,6,Commercial,Male,Textbooks,Struggling,4,At Risk
+25,70,86,2,Commercial,Female,Tutorials,Stressed,9,Good
+13,16,21,19,Commercial,Male,Textbooks,Motivated,7,At Risk
+38,83,47,18,Commercial,Female,Textbooks,Struggling,2,Excellent
+26,99,82,34,Arts,Female,YouTube,Struggling,8,Good
+8,8,50,3,Science,Male,Textbooks,Stressed,7,At Risk
+14,37,2,4,Commercial,Female,YouTube,Stressed,9,At Risk
+14,47,41,0,Commercial,Male,Tutorials,Motivated,8,At Risk
+25,59,18,3,Arts,Male,Tutorials,Struggling,3,At Risk
+12,62,72,11,Commercial,Male,Textbooks,Struggling,1,Average
+31,85,27,26,Arts,Male,YouTube,Stressed,2,Average
+38,1,83,22,Science,Female,Textbooks,Stressed,2,Good
+31,87,44,24,Science,Male,YouTube,Motivated,4,Good
+3,71,70,20,Commercial,Female,YouTube,Struggling,6,Average
+29,10,77,23,Commercial,Female,YouTube,Struggling,4,Good
+36,63,62,24,Commercial,Male,Tutorials,Motivated,9,Average
+22,76,72,31,Arts,Male,YouTube,Motivated,4,Good
+38,80,18,31,Commercial,Male,Tutorials,Stressed,6,Average
+14,71,46,4,Commercial,Male,YouTube,Stressed,6,At Risk
+28,20,13,35,Science,Female,Tutorials,Motivated,10,At Risk
+35,17,37,38,Commercial,Male,Mixed,Motivated,10,Average
+12,93,52,15,Science,Female,Tutorials,Struggling,1,Average
+31,63,60,32,Commercial,Male,Tutorials,Motivated,8,Excellent
+6,81,35,20,Science,Male,Textbooks,Motivated,3,Good
+21,94,39,8,Commercial,Male,YouTube,Struggling,6,Good
+27,37,80,5,Science,Male,Mixed,Motivated,3,Good
+1,31,29,34,Arts,Female,Textbooks,Stressed,2,At Risk
+5,10,8,38,Science,Female,YouTube,Stressed,5,At Risk
+27,44,63,21,Science,Male,Mixed,Struggling,1,Good
+27,88,32,40,Science,Female,Mixed,Motivated,9,Good
+19,32,51,4,Commercial,Female,Mixed,Stressed,7,At Risk
+29,40,88,22,Commercial,Male,YouTube,Stressed,3,Excellent
+10,7,13,16,Commercial,Male,Mixed,Stressed,4,At Risk
+27,10,74,11,Arts,Female,Mixed,Stressed,6,Average
+24,85,52,22,Arts,Female,Textbooks,Motivated,3,Average
+38,50,98,15,Science,Female,Tutorials,Motivated,7,Good
+32,87,58,2,Arts,Female,YouTube,Motivated,6,Good
+0,40,77,29,Science,Male,Tutorials,Motivated,9,Average
+26,16,93,21,Science,Male,Textbooks,Stressed,5,Good
+12,75,40,8,Science,Female,Tutorials,Struggling,4,At Risk
+40,45,67,28,Arts,Male,Mixed,Struggling,3,Excellent
+2,31,67,36,Commercial,Female,Mixed,Stressed,10,At Risk
+38,78,91,22,Arts,Female,YouTube,Stressed,1,Good
+5,79,7,12,Science,Male,YouTube,Struggling,3,At Risk
+7,53,1,31,Science,Female,YouTube,Struggling,3,At Risk
+26,85,85,22,Arts,Female,Textbooks,Stressed,7,Good
+8,91,40,16,Science,Male,YouTube,Stressed,7,At Risk
+36,19,54,39,Science,Male,Textbooks,Motivated,1,Excellent
+32,32,15,20,Arts,Female,Mixed,Motivated,3,Average
+23,73,92,1,Arts,Female,Tutorials,Struggling,8,Average
+14,39,61,36,Arts,Male,Mixed,Stressed,9,Good
+31,31,47,5,Science,Female,Mixed,Struggling,7,Good
+31,96,29,17,Science,Female,Mixed,Motivated,7,Average
+23,1,11,29,Commercial,Male,YouTube,Motivated,8,At Risk
+40,96,34,21,Commercial,Male,YouTube,Struggling,6,Good
+11,32,10,32,Arts,Male,YouTube,Motivated,3,At Risk
+38,76,63,29,Commercial,Male,Tutorials,Stressed,1,Excellent
+1,29,49,16,Science,Male,YouTube,Struggling,7,Average
+2,32,84,31,Commercial,Male,Textbooks,Stressed,1,Average
+36,76,20,13,Science,Female,Mixed,Stressed,1,Average
+16,25,68,9,Arts,Female,Tutorials,Motivated,9,At Risk
+1,21,47,35,Arts,Male,Tutorials,Stressed,10,At Risk
+1,65,19,33,Science,Male,Tutorials,Struggling,7,Good
+27,37,100,8,Commercial,Female,Tutorials,Stressed,4,Good
+22,89,66,27,Arts,Female,Tutorials,Stressed,6,Average
+36,45,43,10,Arts,Female,Textbooks,Stressed,1,Average
+31,14,32,13,Commercial,Male,Mixed,Stressed,7,At Risk
+32,97,72,38,Commercial,Male,Tutorials,Stressed,6,Excellent
+0,43,60,18,Science,Female,Mixed,Motivated,4,Average
+18,48,8,14,Commercial,Male,YouTube,Struggling,7,At Risk
+1,74,67,27,Commercial,Male,Tutorials,Motivated,3,Average
+25,60,34,23,Commercial,Male,Tutorials,Struggling,1,Average
+31,66,80,7,Science,Female,Mixed,Struggling,4,Good
+5,5,97,8,Science,Female,Tutorials,Struggling,3,Average
+31,8,87,32,Arts,Male,Tutorials,Struggling,1,Excellent
+3,5,95,32,Science,Male,Tutorials,Struggling,2,Good
+10,72,64,18,Arts,Male,Textbooks,Stressed,5,Average
+16,94,7,2,Commercial,Male,Textbooks,Motivated,8,At Risk
+37,31,44,9,Arts,Male,Tutorials,Motivated,1,Average
+23,40,86,39,Arts,Female,Textbooks,Stressed,4,Good
+4,75,46,0,Commercial,Male,YouTube,Struggling,4,At Risk
+33,7,39,28,Arts,Male,Tutorials,Motivated,5,At Risk
+5,71,75,33,Science,Male,YouTube,Stressed,7,Average
+21,49,53,12,Science,Female,Mixed,Stressed,8,Average
+10,91,75,0,Science,Female,YouTube,Motivated,6,Average
+15,61,45,33,Science,Male,Mixed,Motivated,1,Good
+32,83,46,28,Arts,Female,Tutorials,Struggling,7,Good
+8,61,14,12,Arts,Female,Mixed,Struggling,3,At Risk
+5,6,18,28,Commercial,Female,Mixed,Motivated,6,At Risk
+15,74,25,38,Arts,Female,YouTube,Struggling,8,Average
+28,83,51,23,Arts,Female,YouTube,Stressed,7,Good
+2,79,92,25,Arts,Female,YouTube,Struggling,10,Average
+19,3,21,16,Commercial,Male,Tutorials,Struggling,6,At Risk
+35,5,20,6,Science,Female,Tutorials,Stressed,9,At Risk
+18,57,50,12,Arts,Female,YouTube,Struggling,9,Average
+25,21,37,4,Commercial,Male,Tutorials,Stressed,1,At Risk
+2,25,19,25,Commercial,Male,Tutorials,Struggling,1,At Risk
+18,2,28,2,Commercial,Male,Mixed,Motivated,1,Average
+19,40,50,6,Science,Male,Mixed,Struggling,8,At Risk
+31,59,3,38,Arts,Female,YouTube,Motivated,10,Average
+6,13,54,0,Commercial,Female,Tutorials,Motivated,7,At Risk
+40,74,70,16,Science,Female,Mixed,Motivated,3,Good
+32,81,91,24,Commercial,Female,Textbooks,Motivated,2,Excellent
+39,11,27,2,Commercial,Male,Tutorials,Motivated,4,Average
+38,86,3,14,Commercial,Female,Textbooks,Stressed,3,Average
+17,11,21,28,Commercial,Female,YouTube,Stressed,7,At Risk
+39,12,75,31,Commercial,Male,Tutorials,Stressed,10,Good
+0,24,44,25,Science,Female,YouTube,Motivated,8,At Risk
+10,44,66,15,Arts,Female,YouTube,Struggling,6,Average
+27,18,85,24,Arts,Female,YouTube,Stressed,3,Good
+24,54,65,27,Arts,Female,YouTube,Struggling,6,Good
+22,99,87,8,Arts,Male,YouTube,Struggling,2,Excellent
+30,44,33,0,Science,Male,Tutorials,Motivated,7,Average
+29,7,90,28,Science,Male,Textbooks,Motivated,10,Average
+34,92,54,21,Science,Male,Tutorials,Motivated,7,Excellent
+6,52,0,15,Commercial,Male,Tutorials,Stressed,4,At Risk
+15,54,71,40,Commercial,Female,Tutorials,Motivated,8,Good
+25,31,86,40,Commercial,Female,Mixed,Stressed,4,Good
+1,50,37,6,Arts,Male,Mixed,Stressed,7,At Risk
+0,43,5,13,Commercial,Male,Tutorials,Stressed,4,At Risk
+11,81,85,28,Arts,Male,Textbooks,Stressed,5,Good
+4,69,24,18,Commercial,Female,Tutorials,Motivated,7,At Risk
+36,17,81,18,Arts,Male,YouTube,Stressed,10,Average
+31,82,16,1,Commercial,Female,Mixed,Motivated,3,At Risk
+8,21,60,40,Commercial,Female,Mixed,Motivated,10,At Risk
+40,36,11,14,Science,Female,Tutorials,Stressed,5,Good
+34,95,5,2,Commercial,Female,Tutorials,Motivated,3,Average
+18,55,89,10,Commercial,Male,Textbooks,Struggling,5,Good
+15,58,26,29,Science,Female,Textbooks,Motivated,3,Average
+2,2,7,39,Arts,Female,YouTube,Motivated,10,At Risk
+19,27,82,17,Science,Male,Tutorials,Stressed,7,Average
+23,73,64,1,Science,Female,Tutorials,Stressed,1,Good
+32,34,56,31,Arts,Female,Tutorials,Motivated,9,Good
+23,60,92,7,Commercial,Female,Mixed,Stressed,9,Good
+10,92,98,21,Arts,Male,YouTube,Struggling,5,Excellent
+7,53,39,5,Commercial,Female,Textbooks,Struggling,9,At Risk
+35,62,13,11,Commercial,Female,Mixed,Stressed,10,At Risk
+37,78,34,39,Arts,Male,Mixed,Motivated,6,Good
+39,96,47,35,Science,Male,Mixed,Struggling,5,Excellent
+19,6,83,14,Arts,Female,Mixed,Struggling,3,Average
+34,75,55,27,Commercial,Female,YouTube,Motivated,8,Good
+24,48,48,17,Arts,Male,Tutorials,Stressed,4,Average
+34,93,12,1,Arts,Female,Textbooks,Struggling,10,At Risk
+24,84,60,12,Commercial,Male,Textbooks,Motivated,3,Good
+28,30,48,14,Science,Female,Mixed,Motivated,6,At Risk
+17,57,45,19,Arts,Male,Mixed,Struggling,8,At Risk
+17,60,61,28,Commercial,Female,YouTube,Stressed,9,Average
+1,23,7,28,Commercial,Male,Mixed,Struggling,6,At Risk
+34,19,42,2,Arts,Male,Textbooks,Motivated,5,At Risk
+15,36,19,18,Science,Male,Textbooks,Struggling,2,At Risk
+40,3,96,2,Arts,Male,Tutorials,Stressed,2,Good
+35,91,89,13,Science,Male,Tutorials,Motivated,9,Excellent
+32,19,38,39,Science,Female,Textbooks,Stressed,2,Excellent
+3,59,84,3,Science,Female,Textbooks,Struggling,2,Average
+32,23,48,10,Science,Male,YouTube,Struggling,3,Good
+13,49,63,30,Arts,Female,YouTube,Stressed,3,Average
+20,48,61,31,Commercial,Female,Textbooks,Struggling,4,Good
+19,50,53,26,Commercial,Female,Mixed,Stressed,7,Good
+7,95,8,29,Commercial,Female,Tutorials,Struggling,9,At Risk
+6,35,87,1,Commercial,Female,Textbooks,Stressed,2,At Risk
+2,97,36,8,Commercial,Female,Mixed,Stressed,4,Average
+16,99,48,27,Commercial,Male,Textbooks,Motivated,9,Average
+32,65,40,30,Arts,Female,Tutorials,Motivated,2,Good
+11,78,16,33,Science,Female,Tutorials,Stressed,10,At Risk
+21,33,87,14,Commercial,Female,YouTube,Struggling,1,Excellent
+21,35,20,24,Arts,Male,YouTube,Struggling,10,At Risk
+29,5,50,35,Commercial,Female,YouTube,Struggling,8,Average
+37,38,58,7,Commercial,Female,YouTube,Stressed,9,Average
+37,41,38,8,Science,Female,Tutorials,Stressed,7,Average
+7,57,54,36,Science,Male,Mixed,Stressed,8,At Risk
+26,11,40,38,Science,Female,Mixed,Stressed,4,Excellent
+26,2,38,31,Commercial,Male,Mixed,Motivated,4,Average
+33,17,12,16,Commercial,Female,Textbooks,Stressed,2,Average
+20,39,63,34,Commercial,Male,YouTube,Struggling,8,Average
+29,20,10,36,Science,Male,YouTube,Motivated,2,Average
+32,14,18,18,Arts,Male,Tutorials,Struggling,9,At Risk
+27,96,10,28,Commercial,Female,Tutorials,Stressed,4,Good
+32,98,76,6,Commercial,Male,Textbooks,Motivated,1,Excellent
+4,25,45,27,Commercial,Male,Textbooks,Stressed,4,Average
+18,7,44,8,Arts,Male,Mixed,Motivated,3,Average
+3,99,0,27,Commercial,Male,Tutorials,Struggling,6,At Risk
+34,93,39,5,Arts,Female,YouTube,Stressed,7,At Risk
+16,86,18,28,Commercial,Female,Mixed,Stressed,8,Good
+27,41,75,16,Arts,Female,YouTube,Motivated,2,Good
+29,43,71,15,Commercial,Female,Mixed,Motivated,6,Good
+28,13,71,22,Science,Male,YouTube,Stressed,6,Good
+5,77,60,30,Science,Female,Textbooks,Motivated,10,Good
+34,1,11,2,Science,Male,Mixed,Stressed,5,At Risk
+40,36,60,20,Science,Female,YouTube,Motivated,10,Average
+36,68,32,25,Commercial,Female,YouTube,Struggling,10,Average
+23,37,44,35,Science,Female,Tutorials,Motivated,7,Average
+28,40,89,36,Arts,Male,Mixed,Struggling,3,Excellent
+30,61,91,21,Science,Female,YouTube,Motivated,4,Good
+34,59,68,11,Science,Female,Tutorials,Motivated,10,Good
+32,13,7,12,Science,Female,YouTube,Stressed,9,At Risk
+20,88,24,10,Commercial,Male,Mixed,Motivated,4,At Risk
+31,83,90,15,Science,Female,Textbooks,Motivated,3,Good
+22,1,45,7,Arts,Female,Mixed,Struggling,2,Average
+32,69,86,39,Science,Male,Mixed,Motivated,5,Good
+2,16,29,39,Science,Male,YouTube,Stressed,4,At Risk
+17,88,46,1,Science,Female,YouTube,Struggling,8,At Risk
+24,27,86,29,Arts,Female,Mixed,Stressed,7,Excellent
+30,65,48,29,Science,Female,Tutorials,Stressed,6,Good
+2,34,46,11,Arts,Male,Tutorials,Stressed,2,At Risk
+39,100,83,9,Arts,Male,Tutorials,Stressed,3,Good
+23,4,81,10,Science,Male,YouTube,Struggling,10,At Risk
+31,64,17,14,Arts,Female,YouTube,Motivated,9,At Risk
+21,39,65,15,Commercial,Male,Mixed,Stressed,9,At Risk
+22,75,67,16,Science,Female,Textbooks,Struggling,5,Good
+1,55,93,25,Science,Male,YouTube,Stressed,3,Average
+26,35,32,1,Arts,Male,Mixed,Motivated,2,Average
+1,44,35,11,Arts,Male,Mixed,Struggling,8,At Risk
+25,22,81,25,Science,Female,Textbooks,Struggling,6,Good
+16,46,100,22,Commercial,Female,Tutorials,Motivated,10,Average
+39,30,18,17,Arts,Female,Mixed,Struggling,7,Average
+32,10,27,31,Arts,Female,Mixed,Motivated,1,Good
+8,9,39,37,Commercial,Male,Mixed,Struggling,1,Average
+38,66,83,2,Commercial,Female,Tutorials,Struggling,10,Average
+28,13,96,37,Science,Male,Tutorials,Motivated,2,Good
+25,79,75,2,Commercial,Female,Textbooks,Motivated,10,Good
+34,73,14,29,Science,Female,YouTube,Struggling,3,Average
+24,92,40,0,Commercial,Male,Tutorials,Struggling,1,Average
+23,9,38,29,Arts,Male,YouTube,Motivated,5,Average
+12,75,1,31,Science,Female,YouTube,Motivated,3,At Risk
+6,93,62,27,Science,Female,Tutorials,Struggling,1,Excellent
+35,0,28,20,Science,Male,Mixed,Struggling,8,At Risk
+19,4,73,12,Commercial,Male,Textbooks,Struggling,6,Good
+0,19,65,26,Arts,Male,YouTube,Motivated,9,At Risk
+7,7,50,35,Science,Male,Mixed,Struggling,3,Average
+15,42,74,6,Science,Male,Tutorials,Stressed,9,At Risk
+13,75,76,21,Science,Female,YouTube,Motivated,9,At Risk
+11,0,9,9,Science,Female,YouTube,Struggling,1,At Risk
+22,56,13,38,Arts,Female,YouTube,Motivated,3,Average
+14,63,81,14,Commercial,Female,Mixed,Stressed,6,Average
+27,83,50,14,Arts,Male,Mixed,Motivated,8,Good
+33,27,72,3,Science,Male,Mixed,Struggling,4,Good
+1,36,38,31,Arts,Male,YouTube,Stressed,5,At Risk
+31,46,27,22,Science,Female,YouTube,Stressed,9,Average
+22,100,2,5,Commercial,Male,Textbooks,Struggling,6,At Risk
+21,75,83,23,Commercial,Male,Textbooks,Struggling,7,Average
+24,36,69,19,Commercial,Female,Mixed,Struggling,7,Average
+21,48,26,36,Science,Female,Mixed,Motivated,4,Average
+21,43,1,19,Arts,Female,Tutorials,Motivated,4,Average
+5,55,92,11,Commercial,Male,Mixed,Motivated,4,Average
+14,27,37,32,Science,Male,Textbooks,Struggling,5,Average
+36,78,2,27,Science,Female,Textbooks,Struggling,5,Average
+32,5,15,7,Arts,Female,Textbooks,Motivated,8,At Risk
+7,60,93,0,Commercial,Male,YouTube,Stressed,9,At Risk
+4,19,39,36,Science,Female,YouTube,Motivated,2,At Risk
+38,77,1,21,Arts,Male,Mixed,Stressed,7,Average
+3,1,80,5,Commercial,Female,Tutorials,Struggling,1,Average
+5,72,40,20,Arts,Female,Tutorials,Struggling,1,Average
+31,36,11,31,Arts,Female,Tutorials,Motivated,4,Average
+29,19,34,34,Science,Male,YouTube,Motivated,10,At Risk
+34,25,64,14,Science,Male,Textbooks,Struggling,7,Good
+39,28,54,4,Science,Female,Textbooks,Motivated,2,Average
+15,0,44,5,Arts,Male,YouTube,Struggling,2,Average
+12,34,78,24,Science,Female,Tutorials,Struggling,1,Average
+29,69,89,39,Arts,Female,Tutorials,Stressed,10,Good
+18,100,100,28,Arts,Male,Mixed,Motivated,2,Excellent
+16,58,84,6,Science,Male,Mixed,Struggling,7,Average
+18,68,61,39,Commercial,Male,Tutorials,Motivated,9,Average
+27,32,48,12,Commercial,Male,YouTube,Stressed,6,Average
+25,50,94,37,Commercial,Female,Tutorials,Stressed,10,Excellent
+36,77,24,17,Arts,Male,Mixed,Motivated,2,Average
+25,11,22,1,Arts,Male,Tutorials,Motivated,10,At Risk
+22,19,23,7,Arts,Female,YouTube,Struggling,10,At Risk
+8,52,37,10,Science,Female,Textbooks,Stressed,9,At Risk
+11,87,27,32,Arts,Female,YouTube,Stressed,7,At Risk
+0,42,20,37,Science,Female,YouTube,Stressed,1,Average
+0,97,53,26,Science,Male,Mixed,Motivated,9,At Risk
+33,88,17,19,Commercial,Male,YouTube,Struggling,2,Good
+31,49,35,11,Commercial,Female,YouTube,Motivated,4,Average
+24,28,98,30,Commercial,Female,Mixed,Motivated,9,Excellent
+39,56,44,26,Science,Male,Mixed,Motivated,4,Average
+0,38,72,31,Science,Male,Textbooks,Struggling,3,Average
+15,94,52,9,Science,Male,Tutorials,Motivated,1,Average
+38,55,29,2,Arts,Male,YouTube,Stressed,7,At Risk
+4,42,59,26,Science,Male,Mixed,Stressed,6,At Risk
+21,49,97,34,Commercial,Female,Textbooks,Stressed,10,Good
+28,22,31,30,Commercial,Female,Tutorials,Struggling,4,Good
+2,43,66,14,Science,Female,Mixed,Motivated,6,At Risk
+11,37,66,15,Science,Female,Tutorials,Struggling,6,Average
+25,83,27,12,Commercial,Male,Tutorials,Motivated,4,Average
+15,22,43,34,Science,Female,YouTube,Stressed,6,At Risk
+36,44,78,10,Commercial,Male,YouTube,Motivated,10,Average
+21,51,40,20,Arts,Male,Mixed,Motivated,8,At Risk
+28,79,62,10,Commercial,Male,Tutorials,Motivated,3,Good
+13,49,22,29,Arts,Male,Mixed,Struggling,4,Average
+27,7,74,34,Science,Male,Mixed,Motivated,10,Average
+4,84,47,21,Science,Male,Tutorials,Motivated,1,Average
+29,0,31,37,Arts,Male,Mixed,Motivated,4,Average
+4,7,56,30,Science,Female,Tutorials,Struggling,10,At Risk
+11,28,99,13,Arts,Male,Tutorials,Struggling,10,At Risk
+15,95,32,23,Science,Female,Tutorials,Struggling,9,At Risk
+25,4,23,31,Commercial,Female,Tutorials,Motivated,8,At Risk
+25,85,38,35,Science,Male,Textbooks,Stressed,4,Good
+20,46,33,31,Commercial,Male,Tutorials,Stressed,7,Average
+38,33,55,14,Commercial,Female,YouTube,Stressed,10,Average
+35,64,27,34,Arts,Female,YouTube,Motivated,3,Average
+32,54,36,2,Science,Female,YouTube,Stressed,9,At Risk
+29,89,6,15,Arts,Female,Tutorials,Stressed,10,At Risk
+36,42,67,4,Science,Male,YouTube,Stressed,4,Good
+22,73,36,20,Commercial,Male,Textbooks,Motivated,2,Good
+9,29,55,9,Commercial,Male,Mixed,Stressed,10,At Risk
+4,81,64,18,Science,Female,Tutorials,Stressed,5,Average
+35,16,64,24,Science,Male,YouTube,Motivated,2,Excellent
+33,25,46,3,Arts,Female,Textbooks,Struggling,10,At Risk
+30,7,19,28,Science,Male,Mixed,Stressed,6,At Risk
+9,46,18,18,Science,Female,Textbooks,Struggling,10,At Risk
+18,75,28,1,Science,Male,YouTube,Stressed,1,Average
+31,90,73,9,Arts,Male,Textbooks,Motivated,6,Good
+0,71,59,24,Science,Female,Mixed,Struggling,4,Average
+4,88,17,19,Commercial,Female,YouTube,Struggling,3,At Risk
+3,45,91,18,Arts,Female,Mixed,Struggling,2,Average
+15,67,34,22,Arts,Female,Textbooks,Struggling,7,At Risk
+23,32,42,23,Commercial,Female,Tutorials,Stressed,9,At Risk
+15,0,94,10,Commercial,Male,Tutorials,Stressed,3,Good
+1,18,90,33,Commercial,Female,Tutorials,Struggling,6,Good
+27,30,10,27,Science,Male,Tutorials,Stressed,9,At Risk
+31,79,48,4,Commercial,Male,Mixed,Struggling,2,Average
+26,13,37,4,Science,Male,Tutorials,Struggling,7,At Risk
+19,52,63,20,Arts,Male,Mixed,Motivated,5,Good
+23,47,68,11,Arts,Male,YouTube,Struggling,5,Good
+11,68,7,3,Commercial,Female,Tutorials,Stressed,7,At Risk
+34,89,33,19,Science,Female,Mixed,Struggling,9,Average
+32,61,47,37,Commercial,Male,Tutorials,Motivated,4,Good
+32,91,55,24,Commercial,Male,Tutorials,Stressed,9,Good
+36,65,75,13,Science,Female,Tutorials,Motivated,10,Good
+11,63,64,10,Commercial,Female,Mixed,Motivated,9,At Risk
+2,69,30,31,Arts,Male,Textbooks,Struggling,4,At Risk
+0,62,3,10,Commercial,Female,Tutorials,Motivated,3,At Risk
+32,72,49,17,Science,Female,Tutorials,Motivated,2,Average
+39,32,68,26,Science,Female,YouTube,Stressed,9,Excellent
+9,40,29,17,Arts,Male,Textbooks,Motivated,2,At Risk
+28,88,87,22,Science,Female,Mixed,Struggling,6,Excellent
+12,47,58,10,Science,Male,YouTube,Struggling,5,At Risk
+11,12,66,20,Arts,Male,Tutorials,Struggling,5,At Risk
+30,72,74,4,Commercial,Male,YouTube,Motivated,4,Good
+1,76,44,22,Arts,Male,YouTube,Stressed,6,Average
+34,30,3,40,Commercial,Male,Tutorials,Struggling,5,Average
+22,74,25,24,Arts,Female,Textbooks,Motivated,4,Average
+16,67,26,40,Commercial,Male,Textbooks,Struggling,9,Average
+25,97,45,9,Arts,Male,YouTube,Struggling,6,Average
+7,3,63,21,Commercial,Male,Tutorials,Stressed,10,Average
+28,18,90,18,Arts,Female,Mixed,Struggling,10,Average
+25,69,50,0,Commercial,Female,YouTube,Stressed,10,At Risk
+9,97,49,6,Arts,Female,Mixed,Motivated,3,Good
+25,81,5,3,Science,Female,YouTube,Struggling,10,At Risk
+33,12,58,0,Commercial,Female,YouTube,Motivated,6,At Risk
+40,22,14,14,Arts,Female,Tutorials,Motivated,1,Average
+6,82,29,39,Commercial,Female,Tutorials,Motivated,5,Average
+3,74,41,11,Commercial,Male,Mixed,Struggling,10,At Risk
+10,0,100,21,Arts,Male,Mixed,Stressed,6,Good
+28,87,36,21,Commercial,Female,Textbooks,Struggling,8,Average
+35,53,41,16,Arts,Male,Tutorials,Motivated,9,Average
+24,70,100,28,Science,Male,YouTube,Stressed,3,Good
+20,88,34,13,Commercial,Female,YouTube,Motivated,2,Average
+35,84,86,19,Science,Male,Textbooks,Stressed,4,Excellent
+9,14,5,32,Commercial,Male,Tutorials,Struggling,8,At Risk
+36,64,67,14,Commercial,Female,YouTube,Stressed,8,Good
+8,75,17,11,Commercial,Male,Textbooks,Struggling,3,Average
+23,70,72,39,Arts,Female,Textbooks,Motivated,4,Good
+34,14,28,19,Science,Female,YouTube,Stressed,3,At Risk
+34,20,76,29,Commercial,Male,YouTube,Motivated,10,Average
+35,18,58,37,Arts,Male,Mixed,Stressed,2,Excellent
+17,59,46,2,Commercial,Male,Tutorials,Struggling,4,At Risk
+38,92,16,27,Arts,Female,Mixed,Stressed,6,Average
+31,88,95,25,Commercial,Female,Textbooks,Stressed,5,Excellent
+23,32,21,29,Science,Female,YouTube,Struggling,3,Average
+22,48,67,12,Science,Male,Mixed,Struggling,2,Good
+31,95,68,12,Commercial,Male,Textbooks,Struggling,9,Average
+36,34,36,1,Arts,Female,Tutorials,Stressed,1,Average
+11,43,48,36,Commercial,Male,YouTube,Motivated,9,Average
+12,89,12,37,Arts,Male,Mixed,Stressed,1,Average
+22,10,33,1,Commercial,Female,Tutorials,Stressed,7,At Risk
+24,98,85,35,Arts,Female,Mixed,Motivated,6,Excellent
+34,71,52,25,Science,Male,Textbooks,Struggling,7,Good
+40,77,86,10,Commercial,Female,Tutorials,Stressed,3,Excellent
+29,73,50,7,Science,Male,Mixed,Motivated,3,Good
+16,65,2,39,Science,Female,Tutorials,Struggling,1,Average
+19,45,41,21,Commercial,Female,Textbooks,Struggling,4,Average
+24,8,97,19,Commercial,Female,Tutorials,Stressed,2,Good
+21,2,31,7,Arts,Male,Mixed,Struggling,10,At Risk
+12,84,50,28,Arts,Male,Textbooks,Struggling,8,At Risk
+18,25,84,39,Science,Female,YouTube,Motivated,3,Good
+35,71,45,25,Arts,Female,Mixed,Motivated,7,Good
+11,47,20,29,Arts,Female,Mixed,Struggling,7,At Risk
+40,65,43,16,Commercial,Male,Textbooks,Motivated,9,Good
+18,69,10,19,Arts,Female,Textbooks,Struggling,6,Good
+11,27,67,15,Science,Female,YouTube,Stressed,1,Average
+8,92,0,6,Arts,Female,Mixed,Motivated,8,At Risk
+6,25,91,15,Science,Female,Textbooks,Struggling,1,Good
+27,24,62,26,Commercial,Male,YouTube,Struggling,3,Good
+13,11,23,22,Science,Male,YouTube,Motivated,5,At Risk
+30,4,98,23,Arts,Female,Textbooks,Motivated,8,Good
+18,97,12,8,Commercial,Male,Mixed,Stressed,9,At Risk
+15,47,97,34,Arts,Male,Tutorials,Struggling,7,Average
+4,36,10,19,Commercial,Male,Tutorials,Stressed,9,At Risk
+34,78,99,36,Commercial,Female,YouTube,Stressed,3,Excellent
+11,43,50,16,Arts,Male,Tutorials,Stressed,5,At Risk
+24,99,16,30,Arts,Male,Tutorials,Motivated,10,Average
+20,14,98,7,Commercial,Male,Textbooks,Stressed,8,Average
+35,42,81,14,Commercial,Female,YouTube,Motivated,1,Good
+22,47,85,30,Arts,Female,Mixed,Motivated,8,Average
+15,86,23,29,Science,Male,YouTube,Stressed,7,Good
+38,69,18,19,Arts,Male,Textbooks,Stressed,1,Good
+38,45,36,38,Commercial,Female,Tutorials,Struggling,10,Excellent
+13,42,84,11,Arts,Female,Mixed,Stressed,10,Average
+30,20,7,16,Science,Male,YouTube,Struggling,6,Average
+4,22,27,29,Arts,Male,Tutorials,Stressed,1,At Risk
+34,79,4,28,Commercial,Female,YouTube,Stressed,2,Average
+22,46,16,18,Arts,Female,Mixed,Stressed,5,At Risk
+28,14,100,10,Commercial,Male,YouTube,Stressed,2,Average
+10,24,35,33,Commercial,Female,YouTube,Struggling,10,At Risk
+17,35,18,6,Arts,Male,YouTube,Struggling,1,Average
+11,74,63,33,Commercial,Male,Tutorials,Stressed,6,Good
+8,50,90,19,Commercial,Male,Mixed,Stressed,8,Average
+9,14,97,37,Science,Female,Mixed,Struggling,8,At Risk
+16,67,10,23,Science,Male,Tutorials,Motivated,8,At Risk
+37,20,53,9,Science,Male,Tutorials,Motivated,6,Average
+6,12,44,31,Science,Female,Tutorials,Motivated,3,At Risk
+12,85,46,14,Commercial,Female,Textbooks,Struggling,1,Average
+39,18,11,36,Arts,Male,YouTube,Struggling,2,Good
+8,33,20,19,Commercial,Male,YouTube,Motivated,5,At Risk
+26,77,10,2,Commercial,Female,Mixed,Motivated,10,At Risk
+1,67,91,36,Commercial,Female,YouTube,Stressed,5,Good
+4,51,4,39,Arts,Female,Textbooks,Struggling,10,At Risk
+28,26,80,7,Science,Male,Tutorials,Struggling,1,Good
+36,28,55,39,Commercial,Male,Mixed,Motivated,1,Good
+37,27,19,22,Commercial,Male,Mixed,Motivated,9,At Risk
+18,34,40,39,Science,Female,YouTube,Struggling,2,Average
+7,7,45,10,Commercial,Male,Mixed,Stressed,7,Average
+0,15,11,7,Arts,Female,Tutorials,Motivated,10,At Risk
+21,35,69,28,Commercial,Male,Mixed,Struggling,4,Good
+16,29,16,29,Commercial,Female,Tutorials,Struggling,7,Average
+6,17,18,9,Science,Male,Textbooks,Stressed,8,At Risk
+24,1,25,38,Commercial,Male,Textbooks,Stressed,5,Average
+3,48,47,27,Commercial,Female,Tutorials,Motivated,1,Average
+35,76,51,35,Arts,Female,YouTube,Motivated,4,Good
+5,3,95,12,Science,Male,Mixed,Motivated,10,At Risk
+30,89,69,31,Science,Female,YouTube,Struggling,3,Excellent
+18,88,54,35,Arts,Female,Mixed,Motivated,10,Average
+38,93,99,36,Commercial,Male,Textbooks,Struggling,5,Excellent
+26,74,74,25,Science,Female,Textbooks,Motivated,10,Good
+9,6,32,21,Science,Male,Textbooks,Stressed,10,At Risk
+25,94,61,3,Commercial,Male,Mixed,Stressed,6,Average
+18,73,87,30,Commercial,Female,Textbooks,Struggling,2,Excellent
+38,38,22,17,Science,Female,Textbooks,Stressed,7,Good
+2,12,14,37,Commercial,Male,Textbooks,Struggling,3,At Risk
+12,30,26,23,Science,Male,Textbooks,Struggling,1,At Risk
+27,70,74,22,Commercial,Male,YouTube,Stressed,10,Average
+19,62,63,21,Commercial,Male,Textbooks,Struggling,3,Good
+27,55,80,1,Arts,Male,Textbooks,Stressed,9,At Risk
+7,41,50,30,Commercial,Male,YouTube,Motivated,10,At Risk
+40,60,52,10,Arts,Female,YouTube,Motivated,6,Good
+38,41,77,27,Commercial,Female,Mixed,Stressed,6,Good
+0,55,90,31,Science,Female,Tutorials,Stressed,4,Average
+2,35,81,4,Science,Male,Textbooks,Stressed,8,At Risk
+12,83,91,37,Commercial,Female,Textbooks,Stressed,5,Excellent
+27,67,50,9,Commercial,Male,Textbooks,Motivated,7,Average
+24,6,46,39,Science,Male,Mixed,Struggling,9,Average
+32,53,3,23,Commercial,Female,Textbooks,Struggling,5,Average
+37,0,6,34,Arts,Male,Tutorials,Motivated,5,Good
+5,43,34,22,Arts,Male,YouTube,Struggling,4,At Risk
+31,44,47,16,Arts,Male,Mixed,Motivated,6,Good
+20,46,72,0,Arts,Male,YouTube,Struggling,2,Average
+15,12,71,30,Arts,Male,Textbooks,Stressed,3,Good
+20,21,44,30,Commercial,Male,Textbooks,Stressed,1,Good
+10,20,80,33,Commercial,Female,Textbooks,Stressed,2,At Risk
+36,85,80,8,Arts,Male,Tutorials,Motivated,2,Excellent
+35,91,96,21,Commercial,Male,Tutorials,Motivated,8,Excellent
+34,8,95,12,Commercial,Male,Mixed,Struggling,8,Good
+18,25,71,24,Arts,Male,YouTube,Struggling,2,Average
+19,8,18,17,Commercial,Female,Textbooks,Struggling,6,At Risk
+17,14,62,11,Commercial,Female,Textbooks,Motivated,5,Average
+40,9,37,39,Commercial,Male,Textbooks,Struggling,3,Good
+13,87,66,16,Arts,Male,Textbooks,Stressed,5,Good
+14,41,58,14,Commercial,Male,Tutorials,Struggling,5,Average
+30,71,68,14,Science,Female,YouTube,Stressed,5,Good
+0,23,12,14,Science,Female,YouTube,Motivated,3,At Risk
+2,79,46,38,Arts,Female,Mixed,Stressed,3,Average
+15,48,60,12,Science,Female,Tutorials,Stressed,4,Average
+22,25,30,16,Arts,Male,Textbooks,Stressed,7,At Risk
+10,90,79,31,Science,Female,YouTube,Motivated,2,Good
+11,36,95,8,Science,Female,YouTube,Motivated,10,At Risk
+9,67,21,39,Science,Male,Tutorials,Motivated,4,Average
+31,49,92,19,Arts,Male,Mixed,Motivated,4,Excellent
+15,23,85,25,Arts,Female,Mixed,Struggling,1,Average
+7,18,42,26,Commercial,Female,Textbooks,Motivated,10,At Risk
+37,99,66,20,Arts,Female,Mixed,Stressed,8,Good
+11,59,53,17,Science,Female,YouTube,Motivated,1,Good
+23,38,9,12,Science,Male,Mixed,Struggling,8,At Risk
+27,73,41,15,Arts,Male,Textbooks,Struggling,7,Average
+7,88,63,8,Arts,Female,YouTube,Struggling,9,At Risk
+27,17,20,11,Arts,Female,Mixed,Stressed,8,At Risk
+35,18,79,37,Commercial,Female,Mixed,Motivated,5,Excellent
+25,35,75,18,Science,Female,Tutorials,Motivated,8,Good
+7,73,65,6,Commercial,Female,Textbooks,Motivated,10,At Risk
+27,96,40,34,Commercial,Male,Mixed,Stressed,3,Good
+27,54,23,17,Science,Male,Tutorials,Stressed,10,At Risk
+36,68,34,15,Science,Male,YouTube,Struggling,7,Average
+40,46,55,38,Arts,Female,Tutorials,Struggling,4,Good
+35,48,29,3,Arts,Female,Tutorials,Motivated,5,At Risk
+26,98,56,24,Commercial,Male,Mixed,Stressed,9,Good
+16,97,93,31,Arts,Male,Mixed,Stressed,7,Excellent
+8,32,46,39,Arts,Female,Mixed,Motivated,4,Average
+32,20,34,12,Science,Male,Tutorials,Motivated,6,Average
+19,80,18,16,Science,Female,YouTube,Struggling,10,At Risk
+12,21,7,36,Arts,Female,Textbooks,Struggling,7,At Risk
+27,47,25,5,Science,Male,Tutorials,Struggling,10,Average
+28,36,70,18,Arts,Male,Mixed,Motivated,9,Average
+12,14,29,12,Science,Male,Textbooks,Motivated,4,At Risk
+34,34,6,25,Science,Female,YouTube,Struggling,10,At Risk
+5,91,66,13,Science,Female,Textbooks,Struggling,3,Good
+17,70,64,30,Science,Male,Mixed,Stressed,8,Average
+4,31,35,3,Arts,Female,Tutorials,Stressed,1,At Risk
+24,10,24,38,Commercial,Female,Tutorials,Struggling,9,Average
+1,9,36,7,Science,Female,Mixed,Struggling,1,At Risk
+9,72,0,24,Arts,Male,Tutorials,Stressed,2,At Risk
+29,77,14,12,Arts,Female,Mixed,Struggling,8,At Risk
+4,76,36,31,Science,Male,Tutorials,Stressed,9,At Risk
+32,56,12,37,Commercial,Male,Tutorials,Stressed,7,Average
+0,24,7,37,Science,Female,Tutorials,Stressed,3,At Risk
+17,1,4,27,Arts,Male,YouTube,Motivated,7,At Risk
+31,63,59,29,Commercial,Female,YouTube,Motivated,6,Average
+10,34,72,2,Arts,Male,Mixed,Struggling,2,Average
+20,6,0,27,Science,Male,YouTube,Stressed,3,At Risk
+25,84,35,2,Commercial,Female,Mixed,Motivated,10,At Risk
+24,17,34,33,Arts,Male,Textbooks,Struggling,10,At Risk
+21,66,65,15,Arts,Male,Textbooks,Struggling,5,Good
+26,41,62,21,Arts,Male,YouTube,Struggling,10,Good
+12,38,22,31,Science,Female,Textbooks,Struggling,4,At Risk
+32,40,8,37,Commercial,Female,Textbooks,Struggling,2,Good
+33,74,33,7,Science,Male,Tutorials,Stressed,4,Average
+40,23,45,7,Science,Male,Tutorials,Struggling,8,Average
+34,59,77,5,Science,Male,Mixed,Stressed,5,Average
+0,45,3,13,Commercial,Female,Textbooks,Motivated,5,At Risk
+20,18,29,31,Science,Female,Mixed,Struggling,10,Average
+5,67,94,34,Science,Male,Mixed,Motivated,3,Excellent
+27,89,74,9,Science,Female,Textbooks,Stressed,8,Good
+16,41,98,2,Science,Female,YouTube,Stressed,6,Average
+4,31,71,11,Arts,Female,Textbooks,Motivated,2,At Risk
+30,38,2,30,Science,Female,Tutorials,Struggling,2,Average
+4,35,13,28,Arts,Male,Textbooks,Struggling,9,At Risk
+37,100,59,4,Science,Female,YouTube,Motivated,7,Good
+2,96,76,24,Commercial,Female,Mixed,Motivated,10,Good
+22,35,44,40,Arts,Male,Mixed,Motivated,9,Average
+36,2,95,30,Arts,Male,Tutorials,Struggling,6,Excellent
+36,72,33,20,Arts,Female,Tutorials,Struggling,5,Good
+9,7,44,19,Arts,Female,Tutorials,Struggling,1,At Risk
+9,96,60,38,Commercial,Male,Mixed,Motivated,6,Good
+18,69,82,21,Science,Male,Tutorials,Struggling,6,Average
+16,40,15,3,Arts,Male,Textbooks,Stressed,3,At Risk
+20,67,65,12,Commercial,Female,Mixed,Motivated,3,Average
+13,12,39,19,Arts,Female,YouTube,Struggling,3,At Risk
+8,48,16,12,Science,Male,Mixed,Motivated,3,Average
+0,59,33,16,Arts,Female,Textbooks,Stressed,7,At Risk
+12,1,15,35,Commercial,Male,Textbooks,Stressed,10,At Risk
+3,59,59,32,Science,Female,Tutorials,Motivated,2,Good
+0,4,65,0,Commercial,Male,Mixed,Motivated,10,At Risk
+39,43,65,14,Science,Male,Mixed,Stressed,10,Good
+31,26,89,12,Science,Female,Mixed,Motivated,2,Good
+33,31,12,16,Science,Female,YouTube,Stressed,3,Good
+27,20,55,23,Arts,Female,Tutorials,Stressed,10,Average
+30,7,30,7,Commercial,Female,Textbooks,Struggling,7,At Risk
+7,71,33,26,Commercial,Female,Textbooks,Motivated,3,At Risk
+38,49,38,22,Commercial,Female,Tutorials,Motivated,7,Average
+25,66,66,7,Science,Male,Textbooks,Struggling,9,Average
+33,43,7,7,Arts,Female,Textbooks,Stressed,10,At Risk
+2,57,86,25,Science,Male,Tutorials,Motivated,4,Good
+11,2,77,12,Commercial,Male,Textbooks,Struggling,7,At Risk
+0,85,54,38,Arts,Female,Mixed,Struggling,9,Average
+4,69,26,36,Arts,Male,YouTube,Motivated,8,At Risk
+29,1,92,27,Arts,Male,Tutorials,Struggling,8,Good
+29,86,52,24,Commercial,Female,YouTube,Stressed,9,Average
+16,43,38,15,Arts,Female,Textbooks,Struggling,5,At Risk
+22,1,64,1,Arts,Female,Textbooks,Stressed,5,At Risk
+14,80,16,17,Science,Male,Mixed,Stressed,3,Average
+36,34,29,16,Science,Female,Tutorials,Motivated,5,At Risk
+20,97,52,29,Arts,Female,Textbooks,Struggling,8,Average
+13,86,12,38,Arts,Female,Tutorials,Stressed,5,At Risk
+1,29,20,12,Science,Female,Tutorials,Stressed,4,At Risk
+10,7,18,31,Science,Male,Tutorials,Struggling,8,At Risk
+38,21,52,28,Science,Female,Tutorials,Stressed,7,Good
+37,43,18,29,Commercial,Male,Tutorials,Struggling,6,Good
+33,57,56,17,Commercial,Female,YouTube,Motivated,5,Good
+37,35,24,12,Science,Male,Mixed,Stressed,5,Average
+33,68,85,20,Arts,Male,Tutorials,Stressed,10,Good
+17,76,30,29,Science,Male,YouTube,Struggling,2,Good
+29,92,80,20,Commercial,Female,Textbooks,Struggling,4,Average
+14,30,54,16,Arts,Male,Tutorials,Struggling,8,At Risk
+26,46,22,39,Commercial,Female,Textbooks,Struggling,8,Average
+33,54,31,18,Arts,Female,Tutorials,Stressed,1,Good
+37,79,61,14,Commercial,Female,YouTube,Motivated,2,Excellent
+32,61,73,8,Arts,Female,YouTube,Motivated,5,Excellent
+23,29,9,9,Arts,Female,YouTube,Motivated,9,At Risk
+14,54,99,30,Arts,Male,Mixed,Motivated,10,Good
+29,15,71,22,Arts,Female,Textbooks,Struggling,7,Good
+16,11,53,29,Commercial,Male,Mixed,Stressed,10,At Risk
+4,16,51,32,Commercial,Male,Tutorials,Stressed,5,At Risk
+28,15,19,8,Arts,Male,Textbooks,Stressed,1,At Risk
+3,11,31,0,Arts,Male,YouTube,Struggling,6,At Risk
+9,7,13,34,Commercial,Male,Textbooks,Stressed,8,At Risk
+16,83,49,10,Arts,Male,YouTube,Struggling,7,Average
+9,2,27,33,Arts,Male,Mixed,Stressed,2,At Risk
+16,15,52,15,Arts,Female,Mixed,Motivated,5,At Risk
+19,29,23,8,Science,Male,YouTube,Struggling,4,At Risk
+23,22,78,31,Arts,Female,YouTube,Stressed,9,Average
+4,91,21,14,Science,Male,Tutorials,Motivated,10,At Risk
+33,4,29,11,Arts,Male,Mixed,Motivated,1,Good
+5,83,62,32,Commercial,Male,Mixed,Motivated,6,Good
+1,64,3,13,Science,Male,Tutorials,Struggling,3,At Risk
+12,29,76,7,Science,Female,Mixed,Struggling,9,Average
+10,20,58,7,Arts,Female,YouTube,Stressed,5,At Risk
+22,83,86,26,Arts,Female,Textbooks,Motivated,6,Average
+15,69,7,11,Science,Male,Textbooks,Stressed,9,At Risk
+30,21,81,0,Commercial,Male,Mixed,Stressed,9,Average
+10,81,11,39,Commercial,Male,Tutorials,Motivated,8,Average
+15,71,30,10,Arts,Female,YouTube,Stressed,9,Average
+7,31,77,38,Commercial,Male,Textbooks,Struggling,4,Average
+3,32,33,30,Commercial,Female,YouTube,Stressed,6,At Risk
+39,15,81,16,Arts,Female,Mixed,Motivated,5,Average
+3,75,97,32,Commercial,Male,Mixed,Struggling,5,Good
+24,37,74,31,Arts,Male,Textbooks,Struggling,4,Good
+2,97,75,28,Science,Female,Mixed,Stressed,2,Good
+31,13,48,20,Arts,Female,Tutorials,Stressed,6,Average
+2,35,78,20,Science,Female,Mixed,Struggling,9,At Risk
+26,96,56,39,Science,Male,Mixed,Stressed,1,Good
+28,22,94,22,Commercial,Male,Mixed,Motivated,7,Good
+31,65,92,5,Commercial,Male,YouTube,Stressed,6,Good
+18,84,25,21,Commercial,Male,YouTube,Stressed,3,Good
+20,1,17,37,Arts,Male,Textbooks,Struggling,1,Average
+4,90,95,36,Commercial,Male,Textbooks,Stressed,4,Good
+17,72,85,7,Science,Female,Textbooks,Stressed,9,Average
+27,64,37,40,Commercial,Female,Mixed,Stressed,2,Good
+21,74,80,34,Commercial,Female,YouTube,Motivated,3,Excellent
+20,66,86,10,Arts,Male,Tutorials,Stressed,2,Good
+5,51,87,23,Arts,Female,Mixed,Motivated,2,Good
+0,61,49,20,Science,Male,Mixed,Motivated,10,Average
+4,22,7,1,Arts,Male,Mixed,Motivated,8,At Risk
+40,25,40,39,Commercial,Female,Tutorials,Motivated,3,Good
+11,67,5,18,Arts,Male,Textbooks,Struggling,7,At Risk
+25,81,68,38,Science,Female,Tutorials,Motivated,8,Average
+33,54,43,27,Commercial,Female,Textbooks,Stressed,3,Good
+13,5,63,16,Science,Male,Tutorials,Motivated,2,Average
+25,34,28,5,Arts,Female,YouTube,Stressed,8,At Risk
+26,21,27,18,Arts,Female,Mixed,Motivated,3,At Risk
+8,42,10,37,Science,Female,Mixed,Struggling,7,Average
+25,14,64,27,Commercial,Female,Mixed,Motivated,1,Average
+21,85,18,1,Arts,Male,Textbooks,Motivated,6,At Risk
+29,59,8,37,Arts,Female,Tutorials,Struggling,9,At Risk
+16,100,26,36,Commercial,Female,YouTube,Motivated,3,Average
+25,11,33,3,Arts,Female,Tutorials,Stressed,7,Average
+35,48,43,21,Science,Male,Mixed,Motivated,6,Good
+0,41,67,25,Arts,Female,YouTube,Motivated,8,Average
+7,37,99,35,Arts,Male,YouTube,Motivated,3,Good
+34,81,81,12,Commercial,Female,Mixed,Struggling,3,Good
+14,44,14,31,Science,Female,Tutorials,Motivated,4,At Risk
+21,34,50,16,Commercial,Female,Mixed,Motivated,3,Good
+13,29,12,40,Arts,Male,Tutorials,Stressed,9,At Risk
+25,87,82,35,Arts,Male,YouTube,Motivated,4,Good
+27,29,48,18,Commercial,Male,YouTube,Motivated,6,Average
+22,77,69,34,Commercial,Male,Mixed,Motivated,8,Good
+13,5,55,39,Commercial,Male,YouTube,Motivated,8,Average
+23,66,75,27,Science,Male,Textbooks,Stressed,5,Good
+1,79,50,0,Arts,Female,YouTube,Stressed,5,At Risk
+25,6,36,17,Commercial,Male,Textbooks,Struggling,6,At Risk
+13,51,16,39,Arts,Female,YouTube,Motivated,10,Average
+6,13,57,32,Science,Male,Mixed,Struggling,7,Average
+2,72,86,11,Science,Male,Mixed,Struggling,10,Average
+22,14,89,7,Science,Male,Textbooks,Motivated,7,Average
+17,20,28,23,Science,Female,Mixed,Stressed,4,At Risk
+37,34,32,15,Arts,Male,YouTube,Stressed,6,Average
+34,65,59,3,Science,Male,YouTube,Motivated,7,Good
+14,90,90,37,Science,Female,Mixed,Motivated,5,Excellent
+24,1,88,26,Commercial,Female,YouTube,Stressed,5,Good
+36,34,54,8,Science,Female,Tutorials,Motivated,2,Excellent
+27,81,9,15,Commercial,Female,Tutorials,Motivated,7,Average
+9,77,46,11,Science,Male,YouTube,Motivated,6,At Risk
+38,19,22,30,Science,Female,Mixed,Stressed,1,Excellent
+16,81,84,23,Commercial,Male,Textbooks,Struggling,4,Average
+38,9,20,13,Science,Male,Mixed,Struggling,3,Average
+21,24,12,24,Arts,Female,Textbooks,Motivated,3,At Risk
+25,65,100,33,Arts,Male,Mixed,Stressed,7,Excellent
+24,24,32,2,Science,Female,YouTube,Motivated,10,At Risk
+16,53,23,23,Arts,Male,Tutorials,Stressed,4,Average
+12,32,10,8,Commercial,Female,Mixed,Motivated,8,At Risk
+19,35,16,25,Science,Female,Textbooks,Stressed,9,At Risk
+24,94,67,19,Science,Female,Tutorials,Stressed,3,Excellent
+3,13,46,39,Commercial,Female,Textbooks,Struggling,5,At Risk
+9,64,24,9,Commercial,Female,YouTube,Motivated,4,At Risk
+2,79,93,18,Commercial,Female,Tutorials,Struggling,10,Average
+40,53,72,2,Science,Male,Textbooks,Struggling,6,Average
+17,51,20,23,Commercial,Male,Mixed,Stressed,10,At Risk
+35,2,83,4,Commercial,Male,YouTube,Motivated,4,Good
+21,98,82,2,Arts,Female,YouTube,Stressed,8,Average
+33,40,82,26,Arts,Male,YouTube,Stressed,3,Good
+7,5,11,15,Science,Female,Mixed,Stressed,5,At Risk
+39,24,36,14,Arts,Male,Mixed,Motivated,1,Good
+18,12,41,34,Arts,Male,Tutorials,Motivated,6,Average
+40,97,16,11,Commercial,Female,Mixed,Stressed,5,Average
+36,7,100,40,Commercial,Male,Tutorials,Motivated,8,Good
+5,20,47,25,Arts,Male,YouTube,Stressed,9,Average
+25,97,27,33,Arts,Male,Tutorials,Motivated,8,Average
+33,67,40,22,Arts,Female,Textbooks,Motivated,8,Average
+5,24,98,30,Science,Male,YouTube,Struggling,3,Good
+36,78,46,19,Science,Female,YouTube,Stressed,4,Good
+32,67,17,11,Science,Male,Tutorials,Struggling,4,Average
+21,44,77,22,Arts,Male,YouTube,Struggling,5,Excellent
+20,59,98,3,Arts,Male,Mixed,Stressed,9,Average
+5,11,70,22,Science,Male,Textbooks,Stressed,9,At Risk
+5,31,12,0,Science,Female,Tutorials,Motivated,10,At Risk
+3,95,81,24,Arts,Male,Tutorials,Stressed,1,Good
+29,91,100,1,Commercial,Female,YouTube,Struggling,8,Excellent
+10,12,12,29,Science,Female,Mixed,Struggling,1,At Risk
+29,30,99,2,Arts,Male,YouTube,Stressed,2,Good
+30,77,30,20,Arts,Male,YouTube,Struggling,7,Average
+23,19,1,24,Commercial,Female,Tutorials,Motivated,8,At Risk
+8,17,15,19,Arts,Female,YouTube,Struggling,1,Average
+2,92,8,21,Arts,Male,Textbooks,Motivated,3,At Risk
+30,59,72,20,Science,Male,YouTube,Struggling,7,Good
+39,62,37,32,Science,Male,YouTube,Motivated,9,Good
+36,5,74,37,Commercial,Male,Tutorials,Motivated,8,Good
+35,31,53,14,Commercial,Male,YouTube,Stressed,8,Average
+23,92,55,14,Arts,Female,Mixed,Motivated,9,Average
+30,42,85,24,Science,Male,Tutorials,Stressed,10,Excellent
+5,1,96,20,Commercial,Male,YouTube,Struggling,3,Average
+1,59,99,23,Commercial,Female,Textbooks,Struggling,8,At Risk
+19,22,86,4,Commercial,Male,Textbooks,Struggling,1,Good
+27,82,44,5,Arts,Male,Tutorials,Motivated,8,Average
+10,30,33,22,Science,Female,Tutorials,Struggling,7,At Risk
+3,4,8,3,Commercial,Male,YouTube,Struggling,8,At Risk
+14,82,87,26,Science,Female,Mixed,Stressed,1,Excellent
+5,33,7,17,Commercial,Male,YouTube,Stressed,6,At Risk
+29,9,6,20,Commercial,Male,Textbooks,Struggling,7,At Risk
+37,88,35,27,Science,Male,Mixed,Struggling,5,Average
+1,1,17,34,Science,Female,Mixed,Motivated,5,At Risk
+14,10,2,21,Science,Female,Mixed,Motivated,7,At Risk
+10,49,27,39,Arts,Female,YouTube,Struggling,3,At Risk
+7,30,69,22,Commercial,Female,Textbooks,Stressed,6,At Risk
+25,55,43,2,Arts,Male,Tutorials,Struggling,7,At Risk
+4,78,20,39,Science,Female,YouTube,Motivated,1,At Risk
+5,72,27,9,Commercial,Female,Tutorials,Stressed,2,At Risk
+25,86,53,24,Arts,Female,Mixed,Stressed,4,Excellent
+3,82,53,7,Commercial,Male,Mixed,Motivated,8,At Risk
+18,8,64,10,Arts,Male,YouTube,Struggling,10,At Risk
+19,98,99,4,Science,Female,Textbooks,Struggling,6,Good
+32,20,20,36,Arts,Female,Mixed,Struggling,1,Average
+19,72,98,37,Commercial,Male,Tutorials,Motivated,10,Average
+11,27,12,28,Commercial,Female,Tutorials,Stressed,5,At Risk
+0,61,56,4,Commercial,Female,YouTube,Motivated,7,At Risk
+25,6,48,8,Commercial,Female,Tutorials,Struggling,6,Average
+13,79,53,1,Science,Female,Textbooks,Motivated,9,Average
+37,15,9,0,Arts,Male,Mixed,Stressed,8,Average
+36,96,52,39,Science,Male,Tutorials,Motivated,4,Good
+10,3,43,29,Science,Male,Tutorials,Struggling,5,At Risk
+35,3,46,10,Science,Female,Mixed,Stressed,7,Average
+12,39,52,27,Commercial,Female,YouTube,Motivated,8,Average
+2,16,73,11,Commercial,Male,Tutorials,Motivated,5,Average
+32,100,45,38,Commercial,Male,YouTube,Stressed,9,Excellent
+5,51,12,25,Arts,Male,YouTube,Stressed,10,At Risk
+9,92,36,12,Commercial,Female,Tutorials,Struggling,4,Average
+4,51,23,7,Arts,Male,Textbooks,Stressed,4,At Risk
+22,35,1,27,Commercial,Female,YouTube,Struggling,8,At Risk
+9,37,85,29,Commercial,Female,Tutorials,Motivated,1,Good
+1,49,80,8,Science,Male,YouTube,Struggling,8,At Risk
+12,62,99,38,Science,Male,Mixed,Motivated,5,Good
+39,100,13,30,Science,Female,Textbooks,Stressed,1,Good
+1,62,9,20,Arts,Male,Textbooks,Motivated,4,At Risk
+19,61,34,33,Arts,Male,Mixed,Stressed,2,Good
+0,98,24,30,Commercial,Female,Mixed,Motivated,4,Average
+36,6,2,24,Arts,Female,YouTube,Motivated,8,At Risk
+8,26,16,11,Commercial,Female,Mixed,Motivated,5,At Risk
+16,91,11,0,Arts,Female,Textbooks,Motivated,1,At Risk
+8,85,53,21,Arts,Female,Mixed,Struggling,7,At Risk
+10,13,23,39,Arts,Male,Tutorials,Motivated,1,At Risk
+14,70,28,36,Science,Female,Tutorials,Struggling,9,At Risk
+23,100,42,0,Arts,Female,YouTube,Stressed,3,Average
+37,85,24,0,Science,Female,Textbooks,Stressed,3,Average
+34,4,99,20,Science,Male,Tutorials,Struggling,6,Average
+29,54,59,14,Arts,Female,Mixed,Stressed,10,Average
+30,1,89,16,Commercial,Female,Tutorials,Stressed,6,Average
+4,61,64,21,Commercial,Female,Tutorials,Motivated,6,At Risk
+13,90,83,37,Commercial,Male,YouTube,Motivated,1,Excellent
+10,20,27,34,Arts,Female,Mixed,Motivated,5,At Risk
+8,78,15,15,Commercial,Female,Mixed,Struggling,6,At Risk
+33,20,46,7,Science,Female,Mixed,Struggling,8,At Risk
+11,9,80,16,Commercial,Male,YouTube,Stressed,1,Average
+34,86,91,16,Arts,Male,Mixed,Motivated,5,Excellent
+34,57,57,25,Commercial,Male,Mixed,Struggling,3,Excellent
+0,38,75,12,Science,Male,Tutorials,Struggling,2,Average
+39,4,26,16,Arts,Female,Tutorials,Motivated,8,At Risk
+21,64,52,37,Commercial,Female,Mixed,Struggling,7,Good
+28,12,41,16,Arts,Male,Textbooks,Motivated,10,At Risk
+7,84,58,13,Arts,Male,Textbooks,Stressed,7,Average
+10,89,46,5,Arts,Female,Mixed,Stressed,5,At Risk
+40,84,93,34,Commercial,Female,Textbooks,Stressed,9,Excellent
+36,52,33,13,Arts,Male,YouTube,Motivated,5,Good
+13,81,36,7,Commercial,Male,Tutorials,Struggling,2,Average
+29,100,5,14,Science,Male,YouTube,Stressed,3,Average
+34,44,6,26,Commercial,Male,Tutorials,Stressed,4,Average
+20,31,95,12,Science,Female,Textbooks,Stressed,5,Average
+36,35,95,30,Commercial,Male,Textbooks,Struggling,3,Good
+4,80,24,34,Arts,Male,Mixed,Struggling,7,Average
+18,98,32,5,Commercial,Female,Textbooks,Motivated,5,Average
+13,59,54,4,Arts,Female,Textbooks,Stressed,5,Average
+25,10,57,21,Science,Female,Mixed,Struggling,6,Average
+3,62,6,22,Commercial,Female,Mixed,Motivated,7,At Risk
+24,20,56,24,Arts,Female,Tutorials,Stressed,10,At Risk
+24,51,11,33,Science,Male,Textbooks,Struggling,10,At Risk
+17,54,15,25,Science,Male,Tutorials,Struggling,8,At Risk
+39,25,79,4,Commercial,Male,Tutorials,Motivated,9,At Risk
+7,67,42,25,Science,Female,YouTube,Stressed,4,Average
+38,33,99,19,Arts,Male,Textbooks,Stressed,5,Good
+39,51,76,5,Science,Female,Textbooks,Struggling,5,Good
+13,81,6,5,Science,Male,YouTube,Stressed,8,At Risk
+31,98,99,17,Arts,Male,Tutorials,Motivated,9,Good
+37,92,50,3,Science,Female,Textbooks,Struggling,7,Excellent
+32,51,72,16,Science,Female,Tutorials,Struggling,5,Good
+22,28,31,13,Science,Male,YouTube,Motivated,3,Average
+14,37,74,13,Science,Male,Mixed,Struggling,1,Average
+32,41,7,12,Arts,Male,Tutorials,Stressed,9,At Risk
+24,20,96,6,Science,Male,Textbooks,Stressed,5,Good
+16,41,86,14,Arts,Male,Mixed,Struggling,9,Average
+32,12,88,18,Science,Female,Tutorials,Motivated,10,Good
+1,63,71,34,Science,Female,Tutorials,Motivated,4,Good
+13,16,44,16,Science,Female,Mixed,Stressed,5,At Risk
+39,8,85,34,Science,Female,Mixed,Motivated,4,Excellent
+39,40,58,18,Arts,Male,Mixed,Struggling,2,Good
+38,0,3,19,Arts,Male,Textbooks,Struggling,1,Average
+5,1,66,35,Arts,Female,Textbooks,Stressed,8,Average
+5,59,28,34,Commercial,Male,Tutorials,Stressed,4,At Risk
+2,47,28,31,Science,Female,Tutorials,Stressed,5,Average
+6,28,97,39,Science,Male,YouTube,Motivated,6,Good
+7,96,97,23,Arts,Male,Textbooks,Struggling,8,Good
+14,9,27,16,Commercial,Male,Tutorials,Struggling,8,At Risk
+28,57,76,6,Science,Female,Mixed,Struggling,7,Good
+32,59,78,0,Arts,Female,Mixed,Stressed,4,Good
+29,20,86,34,Science,Female,Textbooks,Struggling,6,Excellent
+38,27,43,31,Science,Female,Mixed,Motivated,4,Good
+26,74,89,35,Arts,Male,YouTube,Motivated,7,Good
+35,33,3,12,Arts,Male,Tutorials,Struggling,1,At Risk
+28,7,89,5,Science,Male,Tutorials,Stressed,5,Average
+37,58,8,13,Science,Male,Tutorials,Struggling,10,Average
+32,85,4,36,Arts,Female,Textbooks,Motivated,10,Average
+36,71,55,14,Science,Male,Mixed,Motivated,4,Good
+26,48,95,3,Science,Male,YouTube,Motivated,7,Good
+32,78,83,39,Arts,Male,Textbooks,Struggling,9,Excellent
+3,16,49,15,Science,Female,Tutorials,Motivated,5,At Risk
+21,59,74,27,Science,Female,YouTube,Stressed,4,Average
+1,86,14,15,Commercial,Female,Tutorials,Struggling,9,At Risk
+9,87,31,3,Arts,Male,Tutorials,Struggling,5,At Risk
+4,44,27,25,Commercial,Female,Textbooks,Motivated,9,At Risk
+9,82,21,27,Commercial,Male,Tutorials,Motivated,8,Average
+32,68,16,31,Commercial,Male,YouTube,Stressed,4,Good
+37,31,58,1,Science,Male,Tutorials,Struggling,7,Average
+12,43,89,30,Science,Female,Mixed,Motivated,5,Good
+30,64,70,2,Commercial,Female,Tutorials,Stressed,10,Average
+35,86,56,7,Commercial,Male,Textbooks,Motivated,4,Good
+23,100,25,23,Commercial,Male,YouTube,Struggling,5,Average
+14,7,24,14,Science,Female,Textbooks,Motivated,5,At Risk
+28,76,9,30,Commercial,Female,Mixed,Struggling,9,At Risk
+7,71,44,8,Commercial,Female,Tutorials,Motivated,9,At Risk
+4,86,82,38,Arts,Male,Textbooks,Struggling,6,Average
+28,42,10,1,Arts,Male,Textbooks,Stressed,4,At Risk
+3,0,76,7,Science,Male,Textbooks,Struggling,2,At Risk
+11,50,52,6,Arts,Female,Textbooks,Stressed,3,Average
+1,23,71,38,Arts,Female,Mixed,Struggling,2,Average
+26,98,67,15,Arts,Female,Mixed,Stressed,5,Good
+30,23,94,34,Science,Male,Tutorials,Motivated,6,Good
+35,16,27,29,Arts,Male,Tutorials,Struggling,5,Average
+35,4,74,9,Science,Female,YouTube,Motivated,2,Good
+25,19,64,37,Commercial,Male,Mixed,Stressed,5,Good
+26,20,48,17,Arts,Female,Textbooks,Struggling,9,Average
+4,57,46,4,Science,Male,Textbooks,Struggling,4,At Risk
+19,30,51,28,Arts,Female,YouTube,Motivated,10,At Risk
+10,99,87,38,Commercial,Male,Textbooks,Struggling,2,Good
+9,10,53,33,Science,Male,YouTube,Struggling,3,At Risk
+39,51,59,22,Science,Female,Tutorials,Motivated,3,Good
+37,14,56,4,Science,Female,Mixed,Struggling,9,Good
+5,82,46,29,Commercial,Female,YouTube,Motivated,4,Average
+7,6,30,5,Commercial,Female,Textbooks,Motivated,1,At Risk
+22,27,45,3,Commercial,Female,YouTube,Motivated,1,At Risk
+25,50,25,28,Science,Male,Tutorials,Motivated,7,Average
+11,57,4,22,Commercial,Female,Textbooks,Motivated,7,At Risk
+25,4,83,5,Arts,Female,Tutorials,Stressed,2,Good
+12,4,51,31,Commercial,Female,Tutorials,Stressed,9,Average
+39,93,74,17,Science,Male,YouTube,Motivated,9,Good
+17,95,53,14,Arts,Female,Tutorials,Stressed,5,Average
+24,7,32,39,Commercial,Female,Textbooks,Stressed,3,Average
+32,63,49,31,Arts,Female,Tutorials,Struggling,3,Good
+39,9,37,8,Arts,Male,Tutorials,Motivated,3,Good
+11,37,26,36,Science,Male,YouTube,Stressed,6,Average
+35,95,97,9,Arts,Female,Tutorials,Struggling,4,Excellent
+3,91,14,19,Arts,Male,Mixed,Struggling,8,At Risk
+4,80,95,5,Science,Female,YouTube,Motivated,5,Average
+36,94,60,2,Science,Male,YouTube,Motivated,1,Good
+7,7,20,10,Science,Female,Textbooks,Struggling,9,At Risk
+27,24,45,16,Arts,Male,Textbooks,Motivated,1,Average
+30,72,68,31,Arts,Female,Textbooks,Motivated,6,Good
+8,65,5,3,Arts,Female,Textbooks,Struggling,1,At Risk
+28,78,37,3,Science,Male,Mixed,Struggling,3,Average
+13,49,61,16,Commercial,Female,YouTube,Motivated,10,Average
+39,66,85,40,Arts,Female,Tutorials,Stressed,5,Excellent
+40,48,61,18,Commercial,Female,Textbooks,Motivated,10,Average
+21,35,81,4,Science,Female,Textbooks,Stressed,7,Average
+10,67,77,31,Arts,Male,Textbooks,Struggling,10,Good
+22,77,73,21,Commercial,Female,Tutorials,Stressed,8,Average
+0,40,45,5,Arts,Male,Textbooks,Struggling,9,At Risk
+36,88,12,34,Arts,Male,Tutorials,Motivated,6,Good
+20,61,94,21,Arts,Male,YouTube,Motivated,9,Good
+25,9,93,0,Commercial,Male,YouTube,Struggling,8,At Risk
+35,20,2,19,Science,Female,YouTube,Struggling,9,At Risk
+22,35,93,21,Arts,Female,Mixed,Struggling,10,Good
+0,11,5,10,Science,Male,Tutorials,Motivated,4,At Risk
+39,90,92,12,Science,Female,Textbooks,Motivated,9,Good
+14,1,7,2,Commercial,Male,Textbooks,Stressed,7,At Risk
+20,12,43,8,Commercial,Female,Textbooks,Struggling,5,Average
+8,52,32,11,Science,Female,Textbooks,Stressed,5,At Risk
+8,31,80,22,Arts,Female,Mixed,Motivated,1,Good
+9,94,74,13,Commercial,Male,Textbooks,Stressed,2,Average
+25,15,76,32,Arts,Male,Mixed,Stressed,10,Good
+40,31,49,17,Arts,Female,Tutorials,Motivated,3,Good
+34,31,10,40,Arts,Male,YouTube,Motivated,8,At Risk
+24,97,94,8,Science,Male,Textbooks,Struggling,6,Average
+25,10,27,22,Arts,Female,YouTube,Stressed,10,At Risk
+10,9,69,9,Science,Male,Tutorials,Motivated,5,At Risk
+37,14,40,18,Science,Female,Tutorials,Motivated,1,Good
+1,16,15,4,Arts,Female,Textbooks,Stressed,9,At Risk
+6,39,67,22,Arts,Female,Tutorials,Motivated,3,At Risk
+17,17,98,29,Arts,Male,YouTube,Struggling,3,Average
+26,54,47,24,Arts,Female,Textbooks,Struggling,2,Average
+33,72,55,27,Science,Female,Mixed,Stressed,4,Excellent
+26,24,63,33,Arts,Male,Textbooks,Struggling,2,Excellent
+16,58,58,24,Arts,Male,YouTube,Motivated,9,Average
+23,77,89,9,Science,Male,Textbooks,Motivated,10,Average
+24,88,61,13,Commercial,Male,Textbooks,Motivated,7,Good
+6,21,75,29,Commercial,Female,YouTube,Motivated,8,Average
+5,29,10,40,Science,Male,Textbooks,Stressed,3,At Risk
+23,83,100,24,Commercial,Male,Textbooks,Struggling,6,Excellent
+32,84,88,13,Science,Male,YouTube,Struggling,10,Good
+28,43,17,34,Arts,Male,Tutorials,Motivated,6,At Risk
+21,31,18,33,Arts,Female,YouTube,Stressed,1,Average
+25,50,86,9,Commercial,Male,Textbooks,Motivated,6,Good
+27,45,54,34,Arts,Female,Mixed,Motivated,3,Good
+20,20,81,10,Commercial,Male,Mixed,Stressed,3,At Risk
+6,98,25,10,Commercial,Female,YouTube,Stressed,3,At Risk
+16,31,5,20,Arts,Female,Mixed,Motivated,10,At Risk
+19,93,3,20,Arts,Male,Textbooks,Struggling,10,Average
+40,38,28,21,Commercial,Female,Textbooks,Motivated,8,Average
+19,11,58,6,Arts,Male,YouTube,Struggling,5,Average
+21,46,97,16,Science,Female,Textbooks,Struggling,4,Good
+27,17,16,1,Arts,Female,Tutorials,Stressed,9,At Risk
+39,20,42,11,Arts,Female,Textbooks,Stressed,9,At Risk
+6,12,79,17,Science,Male,YouTube,Motivated,1,At Risk
+0,20,65,10,Arts,Female,Tutorials,Struggling,2,At Risk
+31,7,33,15,Arts,Male,Tutorials,Struggling,8,At Risk
+12,45,7,17,Commercial,Female,Mixed,Motivated,5,At Risk
+29,6,12,34,Arts,Female,Textbooks,Motivated,7,At Risk
+22,22,7,25,Arts,Female,YouTube,Motivated,1,At Risk
+18,95,93,15,Science,Female,Mixed,Stressed,10,Good
+31,74,95,5,Commercial,Female,Mixed,Motivated,5,Good
+29,85,99,11,Commercial,Female,Textbooks,Motivated,3,Good
+28,21,93,12,Commercial,Male,Textbooks,Struggling,10,Average
+28,88,64,3,Arts,Male,YouTube,Motivated,2,Good
+29,21,42,38,Commercial,Male,Mixed,Struggling,2,Good
+15,91,38,1,Science,Female,YouTube,Struggling,9,At Risk
+39,28,80,25,Commercial,Male,Mixed,Stressed,4,Good
+18,12,58,26,Science,Female,Mixed,Motivated,4,Good
+17,81,83,26,Commercial,Male,Mixed,Motivated,7,Good
+0,1,87,14,Commercial,Male,Textbooks,Struggling,10,At Risk
+13,28,85,7,Science,Female,Mixed,Stressed,10,Average
+1,84,92,6,Commercial,Female,Mixed,Stressed,2,At Risk
+27,78,85,39,Commercial,Male,Mixed,Motivated,3,Excellent
+29,51,43,11,Commercial,Male,Tutorials,Struggling,3,At Risk
+37,26,8,12,Arts,Male,Textbooks,Motivated,6,At Risk
+3,49,36,16,Science,Male,Tutorials,Motivated,3,Average
+0,94,73,16,Commercial,Female,Textbooks,Motivated,5,Average
+7,78,35,35,Science,Male,YouTube,Motivated,4,At Risk
+28,22,100,20,Science,Female,Tutorials,Struggling,3,Excellent
+38,87,91,7,Science,Female,YouTube,Stressed,8,Good
+2,43,27,4,Commercial,Male,Mixed,Motivated,10,At Risk
+31,76,41,25,Commercial,Female,YouTube,Motivated,3,Excellent
+9,21,42,15,Science,Male,YouTube,Motivated,6,At Risk
+9,42,84,35,Arts,Female,YouTube,Motivated,7,Good
+18,36,87,27,Science,Female,YouTube,Stressed,7,Good
+33,60,41,28,Arts,Male,Textbooks,Stressed,2,Excellent
+32,96,65,11,Science,Female,Tutorials,Stressed,3,Good
+22,55,54,36,Science,Female,Textbooks,Stressed,10,Good
+27,2,71,29,Science,Male,Textbooks,Motivated,10,Average
+31,62,47,22,Commercial,Female,Textbooks,Struggling,4,Average
+6,18,90,15,Arts,Female,YouTube,Stressed,7,At Risk
+28,22,21,13,Arts,Male,Textbooks,Stressed,2,Average
+7,28,100,9,Science,Male,Tutorials,Motivated,3,Average
+0,29,26,6,Commercial,Female,Textbooks,Motivated,7,At Risk
+2,38,92,36,Commercial,Female,Mixed,Motivated,7,At Risk
+23,24,66,28,Arts,Female,YouTube,Motivated,10,Average
+22,100,12,2,Commercial,Male,Mixed,Struggling,3,Average
+7,7,44,14,Arts,Female,Tutorials,Struggling,1,At Risk
+36,57,9,35,Arts,Female,Tutorials,Stressed,3,Average
+2,15,99,18,Arts,Female,Tutorials,Struggling,5,At Risk
+32,71,8,12,Commercial,Female,Tutorials,Stressed,7,Average
+27,0,53,20,Arts,Female,Textbooks,Stressed,4,Average
+7,4,26,36,Arts,Female,YouTube,Struggling,1,At Risk
+33,2,33,26,Science,Male,Tutorials,Stressed,6,Average
+34,64,0,28,Arts,Male,Mixed,Motivated,2,Good
+31,3,31,19,Arts,Female,Tutorials,Stressed,3,Average
+23,98,88,24,Science,Female,YouTube,Motivated,4,Good
+13,95,92,5,Science,Male,Mixed,Struggling,6,Good
+31,63,70,35,Commercial,Male,Mixed,Struggling,6,Good
+15,97,66,1,Arts,Male,Mixed,Stressed,7,Average
+3,88,83,21,Commercial,Female,Textbooks,Motivated,5,Average
+36,9,19,31,Commercial,Female,Tutorials,Stressed,7,Good
+20,20,93,15,Science,Female,Textbooks,Struggling,2,Good
+13,45,34,17,Commercial,Female,Mixed,Stressed,1,At Risk
+30,90,98,4,Arts,Male,Textbooks,Stressed,10,Good
+17,26,90,35,Science,Male,Textbooks,Motivated,8,Average
+6,65,89,29,Arts,Male,Textbooks,Struggling,1,Good
+9,40,77,18,Arts,Male,Tutorials,Stressed,2,Average
+6,12,16,22,Science,Female,Mixed,Motivated,10,At Risk
+32,8,17,33,Arts,Female,Mixed,Stressed,6,At Risk
+22,35,44,12,Science,Male,Tutorials,Motivated,1,Average
+20,85,92,28,Arts,Male,Textbooks,Motivated,10,Good
+18,89,83,35,Science,Male,Textbooks,Stressed,3,Good
+18,57,52,21,Commercial,Male,YouTube,Struggling,7,Average
+35,53,90,35,Arts,Male,YouTube,Struggling,8,Good
+28,11,81,8,Science,Female,YouTube,Motivated,4,At Risk
+17,80,67,38,Arts,Female,Tutorials,Struggling,3,Excellent
+1,77,64,18,Arts,Male,Mixed,Motivated,1,Average
+0,13,0,37,Arts,Male,YouTube,Struggling,9,At Risk
+4,33,57,5,Science,Male,Mixed,Stressed,10,At Risk
+19,52,25,14,Commercial,Female,Mixed,Struggling,6,Average
+10,19,19,19,Commercial,Female,Mixed,Motivated,6,At Risk
+1,74,86,8,Commercial,Female,Tutorials,Motivated,9,At Risk
+2,15,9,31,Science,Male,Tutorials,Struggling,1,At Risk
+22,94,58,3,Commercial,Female,Tutorials,Stressed,6,Average
+11,69,74,17,Science,Male,Tutorials,Motivated,5,Good
+19,55,40,4,Arts,Female,YouTube,Motivated,6,Average
+4,82,4,19,Arts,Female,Textbooks,Motivated,8,At Risk
+36,100,64,22,Commercial,Female,Textbooks,Motivated,5,Excellent
+37,57,16,10,Science,Male,Textbooks,Motivated,2,Good
+29,3,21,36,Arts,Male,YouTube,Stressed,2,Average
+8,3,97,21,Science,Female,Textbooks,Struggling,10,At Risk
+33,19,40,3,Science,Male,YouTube,Stressed,5,Average
+34,9,92,28,Arts,Male,YouTube,Stressed,3,Good
+21,23,67,33,Science,Male,YouTube,Motivated,10,Average
+23,98,68,12,Arts,Male,Textbooks,Stressed,3,Excellent
+16,25,10,8,Arts,Male,Mixed,Motivated,8,At Risk
+9,36,55,30,Arts,Male,Textbooks,Stressed,7,Average
+29,84,50,6,Science,Male,Textbooks,Motivated,1,Average
+22,53,20,3,Arts,Female,Tutorials,Motivated,5,Average
+31,20,98,18,Science,Male,YouTube,Stressed,9,Excellent
+16,73,75,29,Arts,Male,Mixed,Stressed,4,Good
+16,37,25,30,Arts,Female,Tutorials,Struggling,1,Good
+13,45,18,34,Commercial,Female,Mixed,Struggling,8,At Risk
+8,3,59,20,Commercial,Female,Mixed,Struggling,5,At Risk
+39,59,70,30,Commercial,Female,YouTube,Stressed,2,Excellent
+1,56,46,18,Science,Male,Textbooks,Stressed,1,Average
+24,44,70,30,Science,Female,YouTube,Motivated,3,Good
+38,19,25,31,Arts,Female,YouTube,Struggling,9,Average
+8,16,39,1,Arts,Male,Tutorials,Motivated,1,At Risk
+21,70,4,9,Arts,Male,YouTube,Motivated,4,At Risk
+3,3,20,1,Arts,Male,Textbooks,Motivated,8,At Risk
+25,92,77,1,Science,Female,Mixed,Motivated,8,Good
+28,13,3,23,Arts,Male,YouTube,Struggling,10,At Risk
+33,2,22,16,Arts,Female,Mixed,Motivated,8,At Risk
+22,87,83,31,Commercial,Male,YouTube,Stressed,10,Good
+36,100,14,15,Arts,Male,Mixed,Stressed,8,Average
+10,79,92,15,Arts,Female,YouTube,Stressed,4,Good
+5,57,7,38,Arts,Male,Tutorials,Struggling,8,At Risk
+17,54,40,30,Science,Male,Mixed,Motivated,9,At Risk
+20,3,18,23,Commercial,Male,YouTube,Struggling,7,At Risk
+35,23,45,0,Arts,Male,YouTube,Motivated,2,Average
+40,33,27,10,Arts,Male,Tutorials,Struggling,9,Average
+37,29,90,20,Commercial,Female,Tutorials,Struggling,8,Good
+33,81,67,3,Arts,Female,Tutorials,Motivated,5,Good
+16,18,14,6,Science,Male,Mixed,Struggling,3,At Risk
+36,30,98,25,Arts,Female,Mixed,Motivated,7,Good
+24,59,36,11,Science,Female,Tutorials,Stressed,2,Good
+37,59,0,30,Science,Female,Textbooks,Stressed,3,Good
+11,18,66,16,Arts,Male,Textbooks,Stressed,9,At Risk
+22,48,23,32,Commercial,Male,YouTube,Struggling,4,Average
+21,62,26,10,Science,Male,Textbooks,Stressed,4,At Risk
+20,82,39,27,Commercial,Female,YouTube,Motivated,3,Average
+26,21,62,31,Arts,Female,Mixed,Stressed,5,Good
+30,23,60,0,Science,Male,Mixed,Stressed,3,Average
+5,75,35,27,Arts,Male,Textbooks,Struggling,9,At Risk
+26,29,97,6,Commercial,Female,Mixed,Motivated,3,Good
+39,57,92,1,Arts,Female,Tutorials,Struggling,2,Excellent
+33,30,23,23,Arts,Male,Tutorials,Struggling,5,Average
+11,99,23,3,Science,Female,Textbooks,Motivated,6,At Risk
+6,63,3,18,Arts,Female,Textbooks,Struggling,1,At Risk
+9,18,66,25,Arts,Female,YouTube,Motivated,6,At Risk
+16,47,33,10,Arts,Female,Mixed,Stressed,10,At Risk
+25,44,56,39,Science,Female,YouTube,Motivated,3,Excellent
+20,99,48,10,Commercial,Female,YouTube,Motivated,4,Average
+27,93,86,2,Commercial,Female,Tutorials,Motivated,6,Good
+1,54,52,11,Arts,Male,Tutorials,Struggling,8,At Risk
+0,54,22,2,Science,Male,Tutorials,Motivated,9,At Risk
+35,96,68,26,Arts,Female,Tutorials,Motivated,6,Good
+25,17,94,1,Commercial,Female,YouTube,Motivated,7,Average
+28,62,52,15,Science,Female,Tutorials,Stressed,5,Average
+20,91,61,1,Commercial,Male,Mixed,Motivated,9,Average
+10,46,40,29,Commercial,Male,Tutorials,Struggling,4,Good
+39,74,56,19,Science,Female,Tutorials,Motivated,10,Average
+10,56,59,37,Science,Male,Tutorials,Motivated,6,Average
+35,44,53,27,Arts,Female,Textbooks,Stressed,5,Good
+38,32,69,24,Arts,Female,Mixed,Motivated,1,Excellent
+39,16,100,31,Commercial,Female,Mixed,Struggling,5,Excellent
+34,69,56,9,Science,Female,YouTube,Motivated,5,Excellent
+33,3,9,39,Science,Female,YouTube,Struggling,9,Average
+23,19,39,32,Arts,Female,Tutorials,Stressed,1,Average
+21,46,6,12,Commercial,Female,Textbooks,Motivated,5,At Risk
+4,90,37,40,Commercial,Male,YouTube,Stressed,7,At Risk
+32,14,84,36,Arts,Female,YouTube,Motivated,6,Average
+35,69,60,15,Science,Male,Tutorials,Struggling,6,Average
+19,46,83,21,Arts,Female,Tutorials,Stressed,7,Average
+18,77,2,19,Arts,Female,YouTube,Motivated,6,At Risk
+34,74,50,26,Arts,Male,YouTube,Struggling,5,Good
+16,8,85,40,Arts,Male,Mixed,Stressed,10,Good
+33,89,46,15,Science,Female,Textbooks,Motivated,5,Average
+8,15,67,33,Arts,Male,Mixed,Stressed,9,At Risk
+25,68,91,31,Science,Female,YouTube,Motivated,8,Excellent
+1,60,75,25,Arts,Female,Mixed,Struggling,10,At Risk
+8,9,37,24,Commercial,Male,Mixed,Struggling,4,At Risk
+8,49,35,1,Science,Male,YouTube,Stressed,4,At Risk
+39,2,40,11,Commercial,Male,Tutorials,Stressed,10,Average
+16,76,68,39,Arts,Male,YouTube,Motivated,5,Good
+0,93,12,8,Arts,Female,Tutorials,Struggling,3,At Risk
+24,69,86,11,Arts,Male,YouTube,Motivated,8,Good
+39,80,57,25,Science,Male,YouTube,Struggling,7,Good
+24,50,49,8,Commercial,Male,YouTube,Stressed,5,Good
+38,18,29,9,Science,Male,Textbooks,Motivated,10,At Risk
+34,41,61,31,Science,Male,Tutorials,Motivated,3,Excellent
+2,34,100,33,Arts,Female,Textbooks,Struggling,5,Good
+36,45,24,19,Commercial,Female,YouTube,Struggling,3,Average
+29,25,26,38,Arts,Male,Mixed,Struggling,10,Average
+37,68,50,1,Science,Male,Textbooks,Stressed,5,Average
+33,92,77,0,Arts,Female,Tutorials,Motivated,1,Good
+11,63,56,35,Commercial,Male,YouTube,Struggling,6,Average
+18,36,46,23,Arts,Female,Textbooks,Stressed,10,At Risk
+36,83,99,26,Commercial,Female,Mixed,Struggling,4,Excellent
+16,48,38,1,Commercial,Male,Textbooks,Motivated,4,At Risk
+9,20,15,30,Arts,Female,Tutorials,Struggling,8,At Risk
+11,73,21,13,Science,Male,Textbooks,Motivated,2,Average
+15,63,84,1,Arts,Male,Mixed,Stressed,4,Average
+23,4,53,28,Science,Female,Mixed,Stressed,2,Average
+18,99,20,14,Science,Female,Tutorials,Struggling,1,Average
+7,69,71,11,Arts,Male,Mixed,Motivated,10,At Risk
+30,89,15,36,Science,Female,YouTube,Motivated,3,Good
+20,3,58,27,Science,Male,Mixed,Motivated,8,Average
+16,38,30,19,Arts,Female,YouTube,Struggling,6,At Risk
+22,34,41,38,Arts,Female,Textbooks,Motivated,7,Average
+36,0,73,23,Arts,Male,YouTube,Motivated,2,Excellent
+15,23,31,20,Science,Male,YouTube,Motivated,6,At Risk
+5,56,58,9,Commercial,Male,Textbooks,Motivated,8,At Risk
+7,99,33,13,Science,Female,Mixed,Struggling,8,At Risk
+24,69,8,36,Commercial,Male,YouTube,Struggling,4,Average
+17,40,80,17,Arts,Male,Mixed,Motivated,6,Average
+24,53,10,23,Commercial,Female,Textbooks,Motivated,5,Average
+11,45,95,13,Arts,Female,Tutorials,Stressed,9,At Risk
+14,59,9,33,Arts,Male,Mixed,Stressed,8,At Risk
+25,59,85,11,Commercial,Male,Mixed,Motivated,2,Good
+40,56,16,21,Arts,Male,Tutorials,Motivated,7,Good
+25,30,67,5,Commercial,Male,Tutorials,Stressed,7,At Risk
+31,83,47,35,Arts,Female,Textbooks,Stressed,1,Excellent
+9,23,51,35,Science,Female,Mixed,Motivated,1,Average
+15,88,24,21,Science,Male,Mixed,Struggling,4,Good
+6,35,20,13,Arts,Male,Textbooks,Struggling,5,At Risk
+16,84,100,15,Arts,Male,Mixed,Motivated,4,Average
+22,29,64,35,Commercial,Female,YouTube,Motivated,7,Average
+25,23,62,24,Science,Male,YouTube,Stressed,3,Good
+20,29,88,31,Commercial,Male,YouTube,Stressed,7,Good
+21,85,50,32,Arts,Female,Mixed,Struggling,8,Good
+6,91,35,35,Arts,Female,YouTube,Motivated,6,Average
+13,6,80,19,Commercial,Male,YouTube,Stressed,6,Average
+14,34,87,17,Arts,Male,Textbooks,Struggling,8,Average
+6,54,65,37,Science,Female,Textbooks,Struggling,8,Average
+8,91,14,2,Commercial,Male,Tutorials,Struggling,7,At Risk
+7,13,95,22,Science,Male,Tutorials,Stressed,6,At Risk
+22,9,38,31,Science,Female,Tutorials,Stressed,6,Average
+28,79,69,15,Science,Female,Tutorials,Motivated,10,At Risk
+17,15,0,4,Commercial,Female,Textbooks,Motivated,6,At Risk
+30,53,22,3,Arts,Male,Textbooks,Struggling,8,At Risk
+29,94,38,20,Science,Female,Textbooks,Struggling,1,Excellent
+38,88,56,39,Science,Female,YouTube,Stressed,5,Excellent
+34,76,80,13,Science,Male,YouTube,Stressed,3,Good
+17,69,33,38,Arts,Male,Tutorials,Motivated,8,At Risk
+38,43,40,30,Arts,Female,YouTube,Motivated,6,Average
+16,72,92,13,Commercial,Female,Mixed,Motivated,2,Good
+13,44,72,5,Arts,Male,Textbooks,Stressed,7,At Risk
+30,99,12,11,Commercial,Male,Tutorials,Struggling,7,Good
+23,55,69,15,Commercial,Female,Tutorials,Motivated,5,Average
+34,83,5,16,Commercial,Female,Mixed,Motivated,8,Average
+33,81,83,22,Commercial,Male,YouTube,Stressed,5,Good
+2,56,51,13,Commercial,Female,Tutorials,Motivated,1,Average
+36,20,2,6,Science,Male,YouTube,Struggling,9,At Risk
+39,67,80,31,Arts,Female,YouTube,Stressed,4,Excellent
+25,49,62,14,Science,Male,Mixed,Motivated,2,Good
+22,32,48,16,Commercial,Male,Tutorials,Motivated,4,Average
+38,90,75,40,Arts,Female,YouTube,Stressed,9,Excellent
+14,6,46,33,Science,Female,YouTube,Stressed,2,Average
+3,69,54,4,Science,Male,Mixed,Motivated,4,Average
+28,14,63,26,Commercial,Female,Mixed,Struggling,2,Average
+21,81,64,22,Science,Female,YouTube,Stressed,5,Good
+24,31,80,39,Science,Female,Mixed,Struggling,3,Good
+12,74,66,13,Science,Male,YouTube,Motivated,10,At Risk
+17,19,89,14,Science,Female,Tutorials,Struggling,2,Average
+32,87,14,32,Science,Female,Textbooks,Motivated,9,Average
+15,14,99,30,Commercial,Male,Mixed,Motivated,5,Good
+1,47,31,34,Commercial,Female,Textbooks,Motivated,10,At Risk
+34,70,95,16,Science,Female,YouTube,Motivated,5,Excellent
+33,20,67,27,Commercial,Male,YouTube,Struggling,1,Good
+29,41,17,18,Commercial,Male,YouTube,Motivated,6,Average
+12,25,82,22,Arts,Female,Textbooks,Motivated,7,Average
+12,13,42,31,Science,Female,YouTube,Struggling,1,Average
+17,56,34,39,Commercial,Male,Mixed,Stressed,9,Average
+31,36,77,12,Commercial,Male,Tutorials,Struggling,8,Average
+31,57,57,19,Science,Female,Tutorials,Struggling,8,Average
+34,20,32,34,Arts,Female,Mixed,Struggling,7,Average
+38,81,13,4,Science,Female,Tutorials,Motivated,5,Average
+28,68,33,8,Arts,Male,Textbooks,Motivated,3,At Risk
+28,2,60,28,Science,Female,YouTube,Motivated,9,Average
+15,86,3,5,Science,Male,YouTube,Stressed,7,At Risk
+9,89,87,24,Science,Male,YouTube,Motivated,10,Good
+29,36,58,30,Science,Male,Textbooks,Stressed,10,Average
+24,87,28,21,Arts,Female,Textbooks,Motivated,8,Average
+38,48,82,1,Arts,Female,Textbooks,Struggling,6,Good
+19,18,5,4,Commercial,Female,Mixed,Motivated,5,At Risk
+4,88,96,26,Science,Male,Textbooks,Stressed,8,Average
+0,84,48,24,Arts,Female,Tutorials,Stressed,3,Average
+29,11,39,7,Arts,Male,Mixed,Motivated,7,At Risk
+2,60,82,0,Arts,Male,Mixed,Struggling,2,At Risk
+13,40,64,19,Science,Male,Mixed,Motivated,3,Average
+29,32,68,22,Commercial,Male,Textbooks,Motivated,2,Excellent
+3,49,26,31,Arts,Male,Mixed,Motivated,5,At Risk
+17,67,79,10,Science,Male,Textbooks,Struggling,7,Average
+36,70,5,38,Arts,Female,Textbooks,Stressed,10,At Risk
+24,85,12,23,Arts,Male,Mixed,Struggling,10,Average
+0,32,63,10,Commercial,Female,YouTube,Stressed,1,At Risk
+14,80,61,28,Arts,Male,YouTube,Stressed,10,Average
+8,23,98,25,Arts,Female,Mixed,Stressed,9,Average
+14,60,18,15,Science,Female,YouTube,Struggling,1,Average
+23,60,75,34,Science,Female,Tutorials,Motivated,1,Excellent
+3,97,79,19,Commercial,Female,Tutorials,Motivated,10,Average
+11,27,42,2,Science,Male,Textbooks,Motivated,8,At Risk
+36,57,73,0,Science,Male,YouTube,Motivated,6,Good
+36,42,88,0,Commercial,Male,Tutorials,Motivated,6,Good
+5,40,19,16,Arts,Male,Mixed,Struggling,9,At Risk
+38,38,94,1,Commercial,Female,YouTube,Struggling,4,Good
+23,85,67,28,Science,Female,Tutorials,Struggling,8,Good
+10,48,43,19,Commercial,Female,Tutorials,Struggling,4,Average
+12,16,22,5,Arts,Male,Mixed,Struggling,2,At Risk
+33,97,1,7,Commercial,Female,Textbooks,Struggling,8,Average
+24,69,21,28,Science,Male,Mixed,Struggling,7,Average
+6,69,56,32,Science,Female,Textbooks,Motivated,4,Average
+3,97,100,2,Commercial,Female,Tutorials,Stressed,9,Average
+7,64,71,34,Arts,Female,Textbooks,Struggling,9,At Risk
+19,73,6,4,Commercial,Female,Tutorials,Stressed,8,At Risk
+28,84,77,26,Arts,Female,Tutorials,Struggling,1,Excellent
+9,4,55,11,Arts,Male,YouTube,Struggling,7,At Risk
+33,1,66,19,Commercial,Female,Textbooks,Motivated,5,Good
+25,21,15,19,Arts,Male,Textbooks,Stressed,7,At Risk
+40,56,82,8,Science,Male,Textbooks,Motivated,9,Good
+2,65,50,38,Commercial,Male,Mixed,Motivated,2,Average
+5,73,81,3,Arts,Male,YouTube,Stressed,4,Good
+4,97,79,18,Science,Male,YouTube,Motivated,4,Average
+4,15,71,37,Commercial,Male,YouTube,Struggling,2,Average
+22,50,96,26,Science,Male,Mixed,Struggling,3,Good
+8,38,11,12,Science,Male,Textbooks,Struggling,8,At Risk
+34,85,52,12,Science,Female,Textbooks,Struggling,9,Average
+19,75,74,21,Arts,Female,Textbooks,Struggling,6,Good
+34,87,4,27,Commercial,Male,YouTube,Motivated,10,At Risk
+17,39,26,21,Commercial,Male,YouTube,Motivated,2,Average
+16,37,11,18,Arts,Male,Tutorials,Struggling,2,At Risk
+23,59,16,7,Commercial,Female,Mixed,Struggling,7,Average
+2,58,5,7,Science,Female,Mixed,Motivated,8,At Risk
+31,9,96,25,Commercial,Male,YouTube,Stressed,8,Good
+34,98,4,25,Arts,Male,Tutorials,Motivated,6,Average
+37,63,56,22,Science,Female,Textbooks,Motivated,10,Average
+12,62,27,12,Arts,Female,YouTube,Motivated,8,At Risk
+24,48,77,27,Science,Male,Mixed,Motivated,1,Good
+8,63,68,8,Science,Male,Mixed,Motivated,9,At Risk
+3,31,58,19,Commercial,Male,Mixed,Stressed,1,Average
+13,6,32,18,Science,Male,Textbooks,Struggling,3,At Risk
+36,20,61,38,Arts,Female,Mixed,Struggling,9,Average
+33,19,49,11,Commercial,Female,Textbooks,Stressed,5,Average
+10,25,18,14,Arts,Male,Textbooks,Struggling,9,At Risk
+40,67,85,30,Science,Male,Textbooks,Struggling,9,Excellent
+2,85,68,13,Arts,Male,YouTube,Struggling,6,Average
+27,14,65,10,Arts,Female,Textbooks,Stressed,1,Average
+28,84,93,25,Science,Male,Tutorials,Stressed,10,Average
+8,78,46,26,Commercial,Male,Mixed,Struggling,7,Average
+2,85,38,10,Arts,Male,YouTube,Struggling,6,At Risk
+24,91,67,37,Science,Female,Mixed,Struggling,9,Good
+33,13,32,33,Commercial,Male,Textbooks,Motivated,7,Good
+11,26,12,18,Commercial,Female,YouTube,Motivated,4,At Risk
+8,39,83,5,Commercial,Male,Tutorials,Motivated,7,At Risk
+14,57,53,37,Arts,Male,Textbooks,Stressed,2,Good
+39,27,6,27,Arts,Male,Mixed,Struggling,6,At Risk
+24,25,78,0,Arts,Female,Tutorials,Stressed,6,Average
+4,62,86,34,Commercial,Male,Textbooks,Stressed,2,Excellent
+10,65,13,39,Arts,Male,Tutorials,Stressed,4,At Risk
+33,24,86,7,Science,Female,Textbooks,Struggling,8,Average
+23,2,18,6,Arts,Female,YouTube,Motivated,8,At Risk
+14,71,53,10,Arts,Female,Textbooks,Struggling,8,At Risk
+37,43,92,38,Commercial,Male,YouTube,Struggling,8,Excellent
+7,96,19,3,Arts,Female,Textbooks,Stressed,1,At Risk
+4,41,28,24,Science,Male,Textbooks,Stressed,2,Average
+25,98,23,11,Commercial,Female,Mixed,Stressed,4,Average
+17,5,81,25,Science,Female,Tutorials,Motivated,9,Average
+5,38,62,37,Commercial,Female,Tutorials,Motivated,3,Good
+36,51,73,11,Commercial,Male,Tutorials,Motivated,6,Good
+12,22,56,36,Arts,Male,Textbooks,Struggling,7,Average
+27,88,7,23,Science,Male,Textbooks,Stressed,8,At Risk
+4,49,89,15,Commercial,Male,Textbooks,Struggling,7,At Risk
+12,42,61,12,Arts,Male,YouTube,Motivated,3,Average
+16,18,28,24,Commercial,Male,YouTube,Stressed,6,At Risk
+39,68,73,3,Commercial,Male,Mixed,Motivated,5,Good
+31,50,16,10,Commercial,Male,Textbooks,Stressed,10,At Risk
+28,10,65,31,Commercial,Male,Tutorials,Stressed,4,Good
+2,11,5,6,Commercial,Female,Tutorials,Struggling,1,At Risk
+39,73,57,10,Commercial,Female,Mixed,Struggling,7,Good
+33,7,68,27,Arts,Male,Tutorials,Motivated,8,Average
+39,23,27,40,Commercial,Male,Mixed,Struggling,2,Good
+26,91,61,22,Science,Male,Textbooks,Struggling,7,Average
+12,40,40,22,Arts,Male,Tutorials,Struggling,6,At Risk
+32,35,68,27,Science,Female,Textbooks,Stressed,5,Good
+5,100,81,25,Commercial,Female,YouTube,Struggling,4,Good
+23,84,89,24,Science,Male,Tutorials,Motivated,2,Good
+18,71,83,28,Commercial,Female,YouTube,Stressed,10,Good
+15,54,40,18,Commercial,Female,Tutorials,Stressed,6,Average
+39,8,48,32,Arts,Male,Textbooks,Struggling,5,Good
+27,46,90,35,Arts,Male,Mixed,Stressed,2,Excellent
+32,14,48,13,Commercial,Male,Textbooks,Motivated,10,At Risk
+40,47,75,13,Arts,Male,Textbooks,Motivated,7,Excellent
+12,81,70,34,Science,Female,Textbooks,Stressed,6,Average
+24,41,2,29,Arts,Male,Tutorials,Struggling,9,At Risk
+35,59,9,27,Arts,Female,Mixed,Struggling,10,At Risk
+26,83,97,16,Science,Male,YouTube,Stressed,5,Excellent
+37,69,88,2,Arts,Female,Textbooks,Motivated,9,Excellent
+6,11,34,15,Commercial,Male,Tutorials,Stressed,9,At Risk
+4,1,79,29,Science,Male,YouTube,Struggling,1,Average
+30,6,1,28,Commercial,Female,Textbooks,Struggling,5,Average
+22,79,23,14,Science,Female,YouTube,Stressed,9,At Risk
+9,2,73,24,Commercial,Female,Textbooks,Motivated,7,Average
+31,2,37,37,Commercial,Male,YouTube,Stressed,6,Good
+29,26,21,37,Arts,Female,YouTube,Motivated,6,At Risk
+38,39,25,22,Commercial,Female,Mixed,Motivated,7,Average
+30,32,42,24,Arts,Female,Mixed,Stressed,1,Good
+17,91,54,6,Science,Female,Textbooks,Stressed,4,Average
+35,0,38,21,Commercial,Female,Tutorials,Motivated,1,Excellent
+1,7,90,16,Commercial,Female,Mixed,Motivated,6,Average
+13,100,28,17,Science,Female,YouTube,Motivated,4,At Risk
+12,31,19,40,Science,Female,Mixed,Motivated,1,At Risk
+28,47,90,9,Commercial,Female,Mixed,Struggling,9,Good
+11,100,40,9,Science,Male,Textbooks,Stressed,4,At Risk
+38,3,53,6,Arts,Male,Mixed,Motivated,6,Good
+1,93,19,37,Science,Female,Mixed,Stressed,7,At Risk
+31,69,18,26,Science,Male,YouTube,Motivated,8,Average
+12,18,83,32,Commercial,Male,Mixed,Stressed,9,Average
+26,31,98,0,Arts,Female,YouTube,Stressed,9,Good
+40,8,65,33,Science,Female,Mixed,Motivated,8,Good
+16,11,29,3,Arts,Female,Mixed,Motivated,10,At Risk
+39,10,52,16,Arts,Female,Tutorials,Stressed,3,Average
+30,45,33,3,Arts,Female,Mixed,Stressed,2,Average
+33,15,21,25,Commercial,Female,YouTube,Stressed,5,Average
+23,0,66,3,Science,Male,YouTube,Struggling,1,Average
+34,62,5,0,Commercial,Female,Textbooks,Motivated,3,At Risk
+5,20,78,6,Science,Male,Textbooks,Struggling,1,Average
+18,29,26,29,Science,Female,Tutorials,Struggling,3,Average
+29,12,9,8,Commercial,Female,YouTube,Motivated,4,At Risk
+6,33,72,34,Arts,Male,YouTube,Motivated,7,At Risk
+9,3,96,7,Arts,Female,YouTube,Struggling,5,At Risk
+40,27,95,23,Science,Female,Tutorials,Motivated,5,Excellent
+31,94,47,18,Commercial,Male,YouTube,Stressed,1,Excellent
+33,58,69,35,Arts,Female,Textbooks,Stressed,8,Average
+27,26,58,26,Arts,Male,Tutorials,Struggling,4,Good
+14,68,99,31,Science,Female,Textbooks,Struggling,10,Excellent
+29,24,58,13,Science,Female,Textbooks,Motivated,5,Good
+36,2,1,17,Commercial,Male,Tutorials,Motivated,2,At Risk
+28,96,28,27,Science,Female,Mixed,Struggling,1,Good
+21,67,67,28,Arts,Male,Mixed,Struggling,9,Average
