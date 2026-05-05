@@ -1,0 +1,282 @@
+{% extends "base.html" %}
+
+{% block title %}About - {{ app_name }}{% endblock %}
+
+{% block content %}
+<!-- About Section -->
+<section class="about-section">
+    <div class="container">
+        <!-- Page Header -->
+        <div class="page-header text-center">
+            <h1 class="page-title">
+                <i class="bi bi-info-circle"></i> About {{ app_name }}
+            </h1>
+            <p class="page-subtitle">
+                Learn more about our JUPEB Academic Performance Prediction System
+            </p>
+        </div>
+        
+        <!-- Project Overview -->
+        <div class="row g-4 mb-5">
+            <div class="col-lg-8 mx-auto">
+                <div class="about-card">
+                    <div class="about-icon">
+                        <i class="bi bi-mortarboard"></i>
+                    </div>
+                    <h2>Project Overview</h2>
+                    <p>
+                        <strong>{{ app_name }}</strong> is a Final Year Computer Science project developed 
+                        to help JUPEB (Joint Universities Preliminary Examinations Board) students predict 
+                        their academic performance using advanced Machine Learning techniques.
+                    </p>
+                    <p>
+                        The system utilizes a <strong>Random Forest Classification</strong> algorithm trained 
+                        on synthetic student data to analyze various academic and behavioral factors, providing 
+                        accurate performance predictions and personalized recommendations.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Technology Stack -->
+        <div class="row g-4 mb-5">
+            <div class="col-12">
+                <div class="section-header text-center">
+                    <h2 class="section-title">Technology Stack</h2>
+                    <p class="section-subtitle">Built with modern technologies for optimal performance</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="tech-card">
+                    <div class="tech-header">
+                        <i class="bi bi-server"></i>
+                        <h3>Backend</h3>
+                    </div>
+                    <ul class="tech-list">
+                        <li><i class="bi bi-check-circle"></i> Python</li>
+                        <li><i class="bi bi-check-circle"></i> Flask Framework</li>
+                        <li><i class="bi bi-check-circle"></i> Scikit-learn</li>
+                        <li><i class="bi bi-check-circle"></i> Pandas & NumPy</li>
+                        <li><i class="bi bi-check-circle"></i> SQLite Database</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="tech-card">
+                    <div class="tech-header">
+                        <i class="bi bi-laptop"></i>
+                        <h3>Frontend</h3>
+                    </div>
+                    <ul class="tech-list">
+                        <li><i class="bi bi-check-circle"></i> HTML5</li>
+                        <li><i class="bi bi-check-circle"></i> CSS3</li>
+                        <li><i class="bi bi-check-circle"></i> JavaScript</li>
+                        <li><i class="bi bi-check-circle"></i> Bootstrap 5</li>
+                        <li><i class="bi bi-check-circle"></i> Responsive Design</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="tech-card">
+                    <div class="tech-header">
+                        <i class="bi bi-brain"></i>
+                        <h3>Machine Learning</h3>
+                    </div>
+                    <ul class="tech-list">
+                        <li><i class="bi bi-check-circle"></i> Random Forest Classifier</li>
+                        <li><i class="bi bi-check-circle"></i> Label Encoding</li>
+                        <li><i class="bi bi-check-circle"></i> Train/Test Split</li>
+                        <li><i class="bi bi-check-circle"></i> Model Persistence</li>
+                        <li><i class="bi bi-check-circle"></i> Feature Importance</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Performance Categories -->
+        <div class="row g-4 mb-5">
+            <div class="col-12">
+                <div class="section-header text-center">
+                    <h2 class="section-title">Performance Categories</h2>
+                    <p class="section-subtitle">Understanding the prediction results</p>
+                </div>
+            </div>
+            
+            <div class="col-md-3">
+                <div class="category-card category-excellent">
+                    <div class="category-icon">
+                        <i class="bi bi-trophy"></i>
+                    </div>
+                    <h3>Excellent</h3>
+                    <p>Top-tier performance with outstanding academic achievements.</p>
+                    <div class="category-score">75%+</div>
+                </div>
+            </div>
+            
+            <div class="col-md-3">
+                <div class="category-card category-good">
+                    <div class="category-icon">
+                        <i class="bi bi-star"></i>
+                    </div>
+                    <h3>Good</h3>
+                    <p>Above-average performance with room for minor improvements.</p>
+                    <div class="category-score">60-74%</div>
+                </div>
+            </div>
+            
+            <div class="col-md-3">
+                <div class="category-card category-average">
+                    <div class="category-icon">
+                        <i class="bi bi-graph-up"></i>
+                    </div>
+                    <h3>Average</h3>
+                    <p>Moderate performance requiring focused effort to improve.</p>
+                    <div class="category-score">45-59%</div>
+                </div>
+            </div>
+            
+            <div class="col-md-3">
+                <div class="category-card category-risk">
+                    <div class="category-icon">
+                        <i class="bi bi-exclamation-triangle"></i>
+                    </div>
+                    <h3>At Risk</h3>
+                    <p>Performance needs immediate attention and intervention.</p>
+                    <div class="category-score">Below 45%</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Features -->
+        <div class="row g-4 mb-5">
+            <div class="col-12">
+                <div class="section-header text-center">
+                    <h2 class="section-title">Key Features</h2>
+                    <p class="section-subtitle">What makes our system unique</p>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-detail-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-shield-lock"></i>
+                    </div>
+                    <h4>Secure Authentication</h4>
+                    <p>User accounts with secure password hashing and session management.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-detail-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-graph-up-arrow"></i>
+                    </div>
+                    <h4>Accurate Predictions</h4>
+                    <p>ML-powered predictions based on 9 key academic and behavioral factors.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-detail-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-lightbulb"></i>
+                    </div>
+                    <h4>Smart Recommendations</h4>
+                    <p>Personalized advice based on your predicted performance category.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-detail-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-clock-history"></i>
+                    </div>
+                    <h4>Prediction History</h4>
+                    <p>Track all your predictions and monitor your progress over time.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-detail-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-phone"></i>
+                    </div>
+                    <h4>Mobile Responsive</h4>
+                    <p>Access the system from any device with a fully responsive design.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-detail-card">
+                    <div class="feature-icon">
+                        <i class="bi bi-moon-stars"></i>
+                    </div>
+                    <h4>Dark Mode</h4>
+                    <p>Toggle between light and dark themes for comfortable viewing.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Dataset Information -->
+        <div class="row g-4 mb-5">
+            <div class="col-lg-8 mx-auto">
+                <div class="dataset-card">
+                    <div class="dataset-header">
+                        <i class="bi bi-database"></i>
+                        <h2>Dataset Information</h2>
+                    </div>
+                    <div class="dataset-content">
+                        <p>
+                            The system is trained on a synthetic dataset of <strong>1,500 JUPEB student records</strong> 
+                            containing the following features:
+                        </p>
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <h5><i class="bi bi-123"></i> Numerical Features</h5>
+                                <ul class="feature-list">
+                                    <li>CA Score (0-40)</li>
+                                    <li>Attendance Rate (0-100%)</li>
+                                    <li>Mock Exam Score (0-100)</li>
+                                    <li>Study Hours per Week</li>
+                                    <li>Stress Level (1-10)</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <h5><i class="bi bi-tag"></i> Categorical Features</h5>
+                                <ul class="feature-list">
+                                    <li>Subject Combination</li>
+                                    <li>Gender</li>
+                                    <li>Study Resources</li>
+                                    <li>Behavioural Pattern</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- CTA -->
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="about-cta">
+                    <h3>Ready to Get Started?</h3>
+                    <p>Create an account and discover your academic potential today!</p>
+                    {% if session.user_id %}
+                    <a href="{{ url_for('predict') }}" class="btn btn-primary btn-lg">
+                        <i class="bi bi-graph-up-arrow"></i> Start Prediction
+                    </a>
+                    {% else %}
+                    <a href="{{ url_for('signup') }}" class="btn btn-primary btn-lg">
+                        <i class="bi bi-rocket"></i> Get Started Free
+                    </a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

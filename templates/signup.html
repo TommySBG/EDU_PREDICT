@@ -1,0 +1,194 @@
+{% extends "base.html" %}
+
+{% block title %}Sign Up - {{ app_name }}{% endblock %}
+
+{% block content %}
+<!-- Signup Section -->
+<section class="auth-section">
+    <div class="auth-bg-pattern"></div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-5 col-lg-4">
+                <div class="auth-card">
+                    <div class="auth-header">
+                        <div class="auth-logo">
+                            <img src="{{ url_for('static', filename='images/logo.png') }}" alt="EDU-PREDICT Logo">
+                        </div>
+                        <h1 class="auth-title">Create Account</h1>
+                        <p class="auth-subtitle">Join {{ app_name }} today</p>
+                    </div>
+                    
+                    <form method="POST" action="{{ url_for('signup') }}" class="auth-form" id="signupForm">
+                        <div class="form-floating mb-3">
+                            <input type="text" 
+                                   class="form-control" 
+                                   id="full_name" 
+                                   name="full_name" 
+                                   placeholder="John Doe"
+                                   required
+                                   autocomplete="name">
+                            <label for="full_name">
+                                <i class="bi bi-person"></i> Full Name
+                            </label>
+                        </div>
+                        
+                        <div class="form-floating mb-3">
+                            <input type="email" 
+                                   class="form-control" 
+                                   id="email" 
+                                   name="email" 
+                                   placeholder="name@example.com"
+                                   required
+                                   autocomplete="email">
+                            <label for="email">
+                                <i class="bi bi-envelope"></i> Email Address
+                            </label>
+                        </div>
+                        
+                        <div class="form-floating mb-3">
+                            <input type="password" 
+                                   class="form-control" 
+                                   id="password" 
+                                   name="password" 
+                                   placeholder="Password"
+                                   required
+                                   minlength="6"
+                                   autocomplete="new-password">
+                            <label for="password">
+                                <i class="bi bi-lock"></i> Password
+                            </label>
+                            <button type="button" class="password-toggle" onclick="togglePassword('password')">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                        </div>
+                        
+                        <div class="form-floating mb-4">
+                            <input type="password" 
+                                   class="form-control" 
+                                   id="confirm_password" 
+                                   name="confirm_password" 
+                                   placeholder="Confirm Password"
+                                   required
+                                   autocomplete="new-password">
+                            <label for="confirm_password">
+                                <i class="bi bi-lock-fill"></i> Confirm Password
+                            </label>
+                            <button type="button" class="password-toggle" onclick="togglePassword('confirm_password')">
+                                <i class="bi bi-eye"></i>
+                            </button>
+                        </div>
+                        
+                        <div class="password-requirements mb-4">
+                            <p class="requirements-title">
+                                <i class="bi bi-shield-check"></i> Password Requirements:
+                            </p>
+                            <ul class="requirements-list">
+                                <li id="req-length">
+                                    <i class="bi bi-circle"></i> At least 6 characters
+                                </li>
+                                <li id="req-match">
+                                    <i class="bi bi-circle"></i> Passwords must match
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="form-check mb-4">
+                            <input class="form-check-input" type="checkbox" id="terms" name="terms" required>
+                            <label class="form-check-label" for="terms">
+                                I agree to the <a href="#" class="auth-link">Terms of Service</a> 
+                                and <a href="#" class="auth-link">Privacy Policy</a>
+                            </label>
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary w-100 auth-btn" id="submitBtn">
+                            <i class="bi bi-person-plus"></i> Create Account
+                        </button>
+                    </form>
+                    
+                    <div class="auth-divider">
+                        <span>or</span>
+                    </div>
+                    
+                    <div class="auth-footer">
+                        <p>Already have an account? 
+                            <a href="{{ url_for('login') }}" class="auth-link">Sign in</a>
+                        </p>
+                    </div>
+                    
+                    <div class="auth-back">
+                        <a href="{{ url_for('index') }}" class="back-link">
+                            <i class="bi bi-arrow-left"></i> Back to Home
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+function togglePassword(fieldId) {
+    const field = document.getElementById(fieldId);
+    const toggle = field.nextElementSibling.nextElementSibling;
+    const icon = toggle.querySelector('i');
+    
+    if (field.type === 'password') {
+        field.type = 'text';
+        icon.classList.remove('bi-eye');
+        icon.classList.add('bi-eye-slash');
+    } else {
+        field.type = 'password';
+        icon.classList.remove('bi-eye-slash');
+        icon.classList.add('bi-eye');
+    }
+}
+
+// Password validation
+const password = document.getElementById('password');
+const confirmPassword = document.getElementById('confirm_password');
+const reqLength = document.getElementById('req-length');
+const reqMatch = document.getElementById('req-match');
+const submitBtn = document.getElementById('submitBtn');
+
+function updateRequirement(element, isValid) {
+    const icon = element.querySelector('i');
+    if (isValid) {
+        element.classList.add('valid');
+        icon.classList.remove('bi-circle');
+        icon.classList.add('bi-check-circle-fill');
+    } else {
+        element.classList.remove('valid');
+        icon.classList.remove('bi-check-circle-fill');
+        icon.classList.add('bi-circle');
+    }
+}
+
+function validatePassword() {
+    const passValue = password.value;
+    const confirmValue = confirmPassword.value;
+    
+    // Check length
+    updateRequirement(reqLength, passValue.length >= 6);
+    
+    // Check match
+    updateRequirement(reqMatch, passValue === confirmValue && passValue !== '');
+    
+    // Enable/disable submit button
+    const isValid = passValue.length >= 6 && passValue === confirmValue && passValue !== '';
+    submitBtn.disabled = !isValid;
+}
+
+password.addEventListener('input', validatePassword);
+confirmPassword.addEventListener('input', validatePassword);
+
+// Form submission
+document.getElementById('signupForm').addEventListener('submit', function(e) {
+    if (password.value !== confirmPassword.value) {
+        e.preventDefault();
+        alert('Passwords do not match!');
+    }
+});
+</script>
+{% endblock %}

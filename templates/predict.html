@@ -1,0 +1,414 @@
+{% extends "base.html" %}
+
+{% block title %}Predict - {{ app_name }}{% endblock %}
+
+{% block content %}
+<!-- Predict Section -->
+<section class="predict-section">
+    <div class="container">
+        <!-- Page Header -->
+        <div class="page-header">
+            <h1 class="page-title">
+                <i class="bi bi-graph-up-arrow"></i> Performance Prediction
+            </h1>
+            <p class="page-subtitle">
+                Enter your academic details below to get your JUPEB performance prediction
+            </p>
+        </div>
+        
+        <div class="row g-4">
+            <!-- Prediction Form -->
+            <div class="col-lg-8">
+                <div class="prediction-form-card">
+                    <div class="card-header">
+                        <h3><i class="bi bi-input-cursor"></i> Student Information</h3>
+                    </div>
+                    
+                    <form id="predictionForm" class="prediction-form">
+                        <div class="row g-3">
+                            <!-- Academic Scores -->
+                            <div class="col-12">
+                                <h4 class="form-section-title">
+                                    <i class="bi bi-clipboard-data"></i> Academic Scores
+                                </h4>
+                            </div>
+                            
+                            <div class="col-md-4">
+                                <label for="ca_score_40" class="form-label">
+                                    CA Score <span class="text-muted">(0-40)</span>
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-award"></i></span>
+                                    <input type="number" 
+                                           class="form-control" 
+                                           id="ca_score_40" 
+                                           name="ca_score_40"
+                                           min="0" 
+                                           max="40" 
+                                           required
+                                           placeholder="0-40">
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-4">
+                                <label for="attendance_rate_percent" class="form-label">
+                                    Attendance Rate <span class="text-muted">(%)</span>
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-calendar-check"></i></span>
+                                    <input type="number" 
+                                           class="form-control" 
+                                           id="attendance_rate_percent" 
+                                           name="attendance_rate_percent"
+                                           min="0" 
+                                           max="100" 
+                                           required
+                                           placeholder="0-100">
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-4">
+                                <label for="mock_exam_score_100" class="form-label">
+                                    Mock Exam Score <span class="text-muted">(0-100)</span>
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-file-text"></i></span>
+                                    <input type="number" 
+                                           class="form-control" 
+                                           id="mock_exam_score_100" 
+                                           name="mock_exam_score_100"
+                                           min="0" 
+                                           max="100" 
+                                           required
+                                           placeholder="0-100">
+                                </div>
+                            </div>
+                            
+                            <!-- Study Habits -->
+                            <div class="col-12 mt-4">
+                                <h4 class="form-section-title">
+                                    <i class="bi bi-book"></i> Study Habits
+                                </h4>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="study_hours_per_week" class="form-label">
+                                    Study Hours per Week
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-clock"></i></span>
+                                    <input type="number" 
+                                           class="form-control" 
+                                           id="study_hours_per_week" 
+                                           name="study_hours_per_week"
+                                           min="0" 
+                                           max="168" 
+                                           required
+                                           placeholder="Hours">
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="study_resources" class="form-label">
+                                    Study Resources
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-journal-bookmark"></i></span>
+                                    <select class="form-select" id="study_resources" name="study_resources" required>
+                                        <option value="" selected disabled>Select resource</option>
+                                        <option value="Textbooks">Textbooks</option>
+                                        <option value="YouTube">YouTube</option>
+                                        <option value="Tutorials">Tutorials</option>
+                                        <option value="Mixed">Mixed</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <!-- Personal Information -->
+                            <div class="col-12 mt-4">
+                                <h4 class="form-section-title">
+                                    <i class="bi bi-person"></i> Personal Information
+                                </h4>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="subject_combination" class="form-label">
+                                    Subject Combination
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-collection"></i></span>
+                                    <select class="form-select" id="subject_combination" name="subject_combination" required>
+                                        <option value="" selected disabled>Select combination</option>
+                                        <option value="Science">Science</option>
+                                        <option value="Arts">Arts</option>
+                                        <option value="Commercial">Commercial</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="gender" class="form-label">
+                                    Gender
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-gender-ambiguous"></i></span>
+                                    <select class="form-select" id="gender" name="gender" required>
+                                        <option value="" selected disabled>Select gender</option>
+                                        <option value="Male">Male</option>
+                                        <option value="Female">Female</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <!-- Behavioral Assessment -->
+                            <div class="col-12 mt-4">
+                                <h4 class="form-section-title">
+                                    <i class="bi bi-activity"></i> Behavioral Assessment
+                                </h4>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="behavioural_pattern" class="form-label">
+                                    Behavioural Pattern
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-emoji-smile"></i></span>
+                                    <select class="form-select" id="behavioural_pattern" name="behavioural_pattern" required>
+                                        <option value="" selected disabled>Select pattern</option>
+                                        <option value="Motivated">Motivated</option>
+                                        <option value="Stressed">Stressed</option>
+                                        <option value="Struggling">Struggling</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <label for="stress_level_1_10" class="form-label">
+                                    Stress Level <span class="text-muted">(1-10)</span>
+                                </label>
+                                <div class="input-group">
+                                    <span class="input-group-text"><i class="bi bi-speedometer2"></i></span>
+                                    <input type="number" 
+                                           class="form-control" 
+                                           id="stress_level_1_10" 
+                                           name="stress_level_1_10"
+                                           min="1" 
+                                           max="10" 
+                                           required
+                                           placeholder="1-10">
+                                </div>
+                                <div class="form-text">
+                                    <span class="text-success">1 = Very Low</span> | 
+                                    <span class="text-danger">10 = Very High</span>
+                                </div>
+                            </div>
+                            
+                            <!-- Submit Button -->
+                            <div class="col-12 mt-4">
+                                <button type="submit" class="btn btn-primary btn-lg w-100 predict-btn" id="predictBtn">
+                                    <i class="bi bi-cpu"></i> Generate Prediction
+                                    <span class="spinner-border spinner-border-sm d-none" id="loadingSpinner"></span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Guidelines Card -->
+            <div class="col-lg-4">
+                <div class="guidelines-card">
+                    <h4><i class="bi bi-info-circle"></i> Input Guidelines</h4>
+                    
+                    <div class="guideline-item">
+                        <div class="guideline-icon">
+                            <i class="bi bi-award"></i>
+                        </div>
+                        <div class="guideline-content">
+                            <h5>CA Score</h5>
+                            <p>Your Continuous Assessment score out of 40 marks.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="guideline-item">
+                        <div class="guideline-icon">
+                            <i class="bi bi-calendar-check"></i>
+                        </div>
+                        <div class="guideline-content">
+                            <h5>Attendance Rate</h5>
+                            <p>Percentage of classes attended (0-100%).</p>
+                        </div>
+                    </div>
+                    
+                    <div class="guideline-item">
+                        <div class="guideline-icon">
+                            <i class="bi bi-file-text"></i>
+                        </div>
+                        <div class="guideline-content">
+                            <h5>Mock Exam Score</h5>
+                            <p>Your most recent mock examination score out of 100.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="guideline-item">
+                        <div class="guideline-icon">
+                            <i class="bi bi-clock"></i>
+                        </div>
+                        <div class="guideline-content">
+                            <h5>Study Hours</h5>
+                            <p>Average hours spent studying per week.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="guideline-item">
+                        <div class="guideline-icon">
+                            <i class="bi bi-speedometer2"></i>
+                        </div>
+                        <div class="guideline-content">
+                            <h5>Stress Level</h5>
+                            <p>Rate your current stress level from 1 (low) to 10 (high).</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Quick Tip -->
+                <div class="quick-tip-card">
+                    <div class="tip-icon">
+                        <i class="bi bi-lightbulb"></i>
+                    </div>
+                    <h5>Quick Tip</h5>
+                    <p>Be honest with your inputs for the most accurate prediction. The system analyzes multiple factors to provide personalized recommendations.</p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Prediction Result Section (Hidden by default) -->
+        <div class="row mt-4 d-none" id="resultSection">
+            <div class="col-12">
+                <div class="result-card" id="resultCard">
+                    <div class="result-header">
+                        <div class="result-icon" id="resultIcon">
+                            <i class="bi bi-trophy"></i>
+                        </div>
+                        <h2 class="result-title">Prediction Result</h2>
+                    </div>
+                    
+                    <div class="result-body">
+                        <div class="predicted-category" id="predictedCategory">
+                            Excellent
+                        </div>
+                        
+                        <div class="recommendation-section">
+                            <h4><i class="bi bi-lightbulb"></i> Recommendation</h4>
+                            <p id="recommendationText">
+                                Your recommendation will appear here.
+                            </p>
+                        </div>
+                    </div>
+                    
+                    <div class="result-actions">
+                        <a href="{{ url_for('history') }}" class="btn btn-outline-primary">
+                            <i class="bi bi-clock-history"></i> View History
+                        </a>
+                        <button type="button" class="btn btn-primary" onclick="resetForm()">
+                            <i class="bi bi-arrow-clockwise"></i> New Prediction
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.getElementById('predictionForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const submitBtn = document.getElementById('predictBtn');
+    const spinner = document.getElementById('loadingSpinner');
+    const resultSection = document.getElementById('resultSection');
+    
+    // Show loading state
+    submitBtn.disabled = true;
+    spinner.classList.remove('d-none');
+    
+    // Collect form data
+    const formData = {
+        ca_score_40: parseInt(document.getElementById('ca_score_40').value),
+        attendance_rate_percent: parseInt(document.getElementById('attendance_rate_percent').value),
+        mock_exam_score_100: parseInt(document.getElementById('mock_exam_score_100').value),
+        study_hours_per_week: parseInt(document.getElementById('study_hours_per_week').value),
+        subject_combination: document.getElementById('subject_combination').value,
+        gender: document.getElementById('gender').value,
+        study_resources: document.getElementById('study_resources').value,
+        behavioural_pattern: document.getElementById('behavioural_pattern').value,
+        stress_level_1_10: parseInt(document.getElementById('stress_level_1_10').value)
+    };
+    
+    try {
+        const response = await fetch('/api/predict', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(formData)
+        });
+        
+        const result = await response.json();
+        
+        if (result.success) {
+            displayResult(result);
+        } else {
+            alert('Error: ' + result.error);
+        }
+        
+    } catch (error) {
+        alert('An error occurred. Please try again.');
+        console.error('Error:', error);
+    } finally {
+        submitBtn.disabled = false;
+        spinner.classList.add('d-none');
+    }
+});
+
+function displayResult(result) {
+    const resultSection = document.getElementById('resultSection');
+    const resultCard = document.getElementById('resultCard');
+    const resultIcon = document.getElementById('resultIcon');
+    const predictedCategory = document.getElementById('predictedCategory');
+    const recommendationText = document.getElementById('recommendationText');
+    
+    // Set content
+    predictedCategory.textContent = result.predicted_category;
+    recommendationText.textContent = result.recommendation.message;
+    
+    // Apply styling based on category
+    const category = result.predicted_category;
+    const rec = result.recommendation;
+    
+    // Reset classes
+    resultCard.className = 'result-card';
+    resultIcon.className = 'result-icon';
+    predictedCategory.className = 'predicted-category';
+    
+    // Apply category-specific styling
+    resultCard.classList.add('category-' + rec.card_class);
+    resultIcon.innerHTML = `<i class="bi bi-${rec.icon}"></i>`;
+    
+    // Show result section
+    resultSection.classList.remove('d-none');
+    
+    // Scroll to result
+    resultSection.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+function resetForm() {
+    document.getElementById('predictionForm').reset();
+    document.getElementById('resultSection').classList.add('d-none');
+    document.getElementById('predictBtn').disabled = false;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+</script>
+{% endblock %}
