@@ -126,6 +126,10 @@ def load_model():
     except Exception as e:
         print(f"[!] Error loading model: {e}")
         print("[!] Please run model/train_model.py first to train the model.")
+        # Set to None so we can check later
+        model = None
+        label_encoders = None
+        target_encoder = None
 
 
 # ============================================
@@ -203,38 +207,34 @@ def get_recommendation(category):
 def make_prediction(data):
     """
     Make prediction using the trained Random Forest model.
-    
-    Args:
-        data: Dictionary containing student features
-    
-    Returns:
-        Predicted category string
     """
+    # Check if model is loaded
+    if model is None or label_encoders is None or target_encoder is None:
+        raise Exception("Machine Learning model is not loaded. Please check the model files.")
+    
     # Create DataFrame with single row
     df = pd.DataFrame([data])
     
     # Encode categorical features
     for feature, encoder in label_encoders.items():
         if feature in df.columns:
-            # Handle unseen categories
             try:
                 df[feature] = encoder.transform(df[feature])
             except ValueError:
-                # If category not seen during training, use most frequent
                 df[feature] = 0
     
     # Ensure correct feature order
-    feature_order =  [
-    'ca_score_40',
-    'attendance_rate_percent',
-    'mock_exam_score_100',
-    'study_hours_per_week',
-    'stress_level_1_10',   # ✅ moved here
-    'subject_combination',
-    'gender',
-    'study_resources',
-    'behavioural_pattern'
-]
+    feature_order = [
+        'ca_score_40',
+        'attendance_rate_percent',
+        'mock_exam_score_100',
+        'study_hours_per_week',
+        'stress_level_1_10',
+        'subject_combination',
+        'gender',
+        'study_resources',
+        'behavioural_pattern'
+    ]
     
     X = df[feature_order]
     
@@ -243,7 +243,6 @@ def make_prediction(data):
     prediction_category = target_encoder.inverse_transform([prediction_encoded])[0]
     
     return prediction_category
-
 
 # ============================================
 # ROUTES - AUTHENTICATION

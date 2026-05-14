@@ -373,12 +373,24 @@ document.getElementById('predictionForm').addEventListener('submit', async funct
     }
 });
 
-function displayResult(result) {
+    function displayResult(result) {
     const resultSection = document.getElementById('resultSection');
     const resultCard = document.getElementById('resultCard');
     const resultIcon = document.getElementById('resultIcon');
     const predictedCategory = document.getElementById('predictedCategory');
     const recommendationText = document.getElementById('recommendationText');
+    
+    // ADD THIS CHECK HERE
+    if (!result.recommendation) {
+        alert('Error: No recommendation data received');
+        return;
+    }
+    
+    // Set content
+    predictedCategory.textContent = result.predicted_category;
+    recommendationText.textContent = result.recommendation.message;
+    // ... rest of the function
+}
     
     // Set content
     predictedCategory.textContent = result.predicted_category;
